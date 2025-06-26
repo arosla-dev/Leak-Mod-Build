@@ -1,0 +1,10 @@
+"E3_seafloor.JeepMusic"
+{
+
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.8"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"#music/HL2_song14.mp3"
+}

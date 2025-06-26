@@ -1,0 +1,1185 @@
+// HALF-LIFE 2 SPEECH SYSTEM SENTENCES.
+//NOTE:  Do not use TABS.  Separate sentence-names from wave definitions with single spaces only.
+//EXTRA SPECIAL NOTE AT NO EXTRA CHARGE:  Limit names to 23 characters or you will get an error!
+
+BLUEMOON1 barney/bluemoon {Len 0.00}
+
+
+//THIS DOCUMENT IS DIVIDED UP BY SCENES IN THE ORDER ENCOUNTERED IN THE GAME, FOLLOWING DIVISIONS BY CHARACTER
+
+//LOOK TEST
+
+//KLeiner comments on specific objects in looklab.bsp
+LOOK01 vo/look/kleiner/look01 {Len 4.45}
+LOOK02 vo/look/kleiner/look02 {Len 1.88}
+LOOK03 vo/look/kleiner/look03 {Len 0.96}
+LOOK04 vo/look/kleiner/look04 {Len 2.94}
+LOOK05 vo/look/kleiner/look05 {Len 2.07}
+LOOK06 vo/look/kleiner/look06 {Len 2.71}
+LOOK07 vo/look/kleiner/look07 {Len 1.84}
+
+
+
+//CHARACTER SECTION
+
+
+//hazard course (offtrack)
+
+HAZ_KLEIN0 vo/haz/haz_OC01 {Len 4.82}
+HAZ_KLEIN1 vo/haz/haz_OC02 {Len 7.07}
+HAZ_KLEIN2 vo/haz/haz_OC03 {Len 4.18}
+
+HAZ_GMAN0 vo/haz/haz_gm01a {Len 8.59}
+HAZ_GMAN1 vo/haz/haz_gm01b {Len 5.61}
+HAZ_GMAN2 vo/haz/haz_gm02 {Len 1.04}
+HAZ_GMAN3 vo/haz/haz_gm03 {Len 1.42}
+
+
+
+//nether_01.bsp
+
+//
+CITIZEN_JOE0 npc/citizen/joe00 {Len 3.82}
+
+//Joe Whistling
+CITIZEN_JOE_WHISTLE0 npc/citizen/whistle00 {Len 0.00}
+
+
+//Joe query
+CITIZEN_JOE_WHO0 npc/citizen/who00 {Len 0.63}
+
+
+//Stalkerspecial
+STALKER_SCREAM0 npc/stalker/go_alert2a {Len 2.12}
+
+
+
+//CONSCRIPT
+
+//OK, WAIT, KILL, OUT_AMMO and LINE_FIRE series processed with LISE (lwv files) for test purposes
+
+//Conscript Out of Ammo
+CONSCRIPT_OUT_AMMO0 npc/conscript/out_ammo {Len 0.90}
+CONSCRIPT_OUT_AMMO1 npc/conscript/reload {Len 0.95}
+CONSCRIPT_OUT_AMMO2 npc/conscript/coverme {Len 0.58}
+
+
+//Player in Line of Fire
+CONSCRIPT_LINE_FIRE0 npc/conscript/outofway {Len 0.96}
+CONSCRIPT_LINE_FIRE1 npc/conscript/inmyway {Len 1.22}
+CONSCRIPT_LINE_FIRE2 npc/conscript/linesight {Len 1.45}
+CONSCRIPT_LINE_FIRE3 npc/conscript/getshot {Len 0.98}
+//LISE generated no linguistic info for getshot on 12/14/00--can't open on 12/22
+CONSCRIPT_LINE_FIRE4 npc/conscript/move {Len 1.44}
+
+
+
+CONSCRIPT_OK0 npc/conscript/teamup2 {Len 0.88}
+CONSCRIPT_OK1 npc/conscript/dobettertogether {Len 2.30}
+CONSCRIPT_OK2 npc/conscript/imwithyou {Len 1.36}
+CONSCRIPT_OK3 npc/conscript/teamup1 {Len 2.29}
+CONSCRIPT_OK4 npc/conscript/gladtolendhand {Len 2.94}
+CONSCRIPT_OK5 npc/conscript/letsgo {Len 0.92}
+CONSCRIPT_OK6 npc/conscript/letsmoveit {Len 1.99}
+
+CONSCRIPT_WAIT0 npc/conscript/helpothers {Len 2.40}
+CONSCRIPT_WAIT1 npc/conscript/iwaithere {Len 1.06}
+CONSCRIPT_WAIT2 npc/conscript/slowingyoudown {Len 1.40}
+CONSCRIPT_WAIT3 npc/conscript/illwait {Len 1.11}
+CONSCRIPT_WAIT4 npc/conscript/seeya {Len 0.61}
+CONSCRIPT_WAIT5 npc/conscript/standguard {Len 1.67}
+
+//When Conscript's killed something
+CONSCRIPT_KILL0 npc/conscript/ba_gotone {Len 0.82}
+CONSCRIPT_KILL1 npc/conscript/ba_another {Len 1.54}
+CONSCRIPT_KILL2 npc/conscript/ba_buttugly {Len 2.09}
+CONSCRIPT_KILL3 npc/conscript/ba_seethat {Len 1.88}
+CONSCRIPT_KILL4 npc/conscript/ba_close {Len 1.67}
+CONSCRIPT_KILL5 npc/conscript/ba_firepl {Len 2.21}
+CONSCRIPT_KILL6 npc/conscript/ba_bring {Len 0.99}
+
+CONSCRIPT_HELLO0 npc/conscript/hellonicesuit {Len 0.40}
+CONSCRIPT_HELLO1 npc/conscript/howdy {Len 0.86}
+CONSCRIPT_HELLO2 npc/conscript/howyoudoing {Len 0.71}
+CONSCRIPT_HELLO3 npc/conscript/haybuddy {Len 0.53}
+CONSCRIPT_HELLO4 npc/conscript/hayfella {Len 0.27}
+CONSCRIPT_HELLO5 npc/conscript/heybuddy {Len 0.53}
+CONSCRIPT_HELLO6 npc/conscript/heyfella {Len 0.27}
+
+CONSCRIPT_QUESTION0 npc/conscript/beertopside {Len 2.42}
+CONSCRIPT_QUESTION1 npc/conscript/wayout {Len 1.60}
+CONSCRIPT_QUESTION2 npc/conscript/getanyworse {Len 2.09}
+CONSCRIPT_QUESTION3 npc/conscript/gladof38 {Len 2.56}
+CONSCRIPT_QUESTION4 npc/conscript/workingonstuff {Len 2.71}
+CONSCRIPT_QUESTION5 npc/conscript/wayout {Len 1.60}
+CONSCRIPT_QUESTION6 npc/conscript/whatsgoingon {Len 2.01}
+CONSCRIPT_QUESTION7 npc/conscript/aintscared {Len 1.16}
+CONSCRIPT_QUESTION8 npc/conscript/nodrill {Len 2.11}
+CONSCRIPT_QUESTION9 npc/conscript/gettingcloser {Len 1.25}
+CONSCRIPT_QUESTION10 npc/conscript/youhearthat {Len 1.86}
+CONSCRIPT_QUESTION11 npc/conscript/crewdied {Len 2.37}
+CONSCRIPT_QUESTION12 npc/conscript/somethingmoves {Len 2.28}
+CONSCRIPT_QUESTION13 npc/conscript/thinking {Len 1.30}
+CONSCRIPT_QUESTION14 npc/conscript/missingleg {Len 3.13}
+
+CONSCRIPT_ANSWER0 npc/conscript/noway {Len 0.96}
+CONSCRIPT_ANSWER1 npc/conscript/ireckon {Len 0.60}
+CONSCRIPT_ANSWER2 npc/conscript/soundsright {Len 0.79}
+CONSCRIPT_ANSWER3 npc/conscript/yessir {Len 0.43}
+CONSCRIPT_ANSWER4 npc/conscript/youbet {Len 0.53}
+CONSCRIPT_ANSWER5 npc/conscript/yougotit {Len 0.60}
+CONSCRIPT_ANSWER6 npc/conscript/yup {Len 0.41}
+CONSCRIPT_ANSWER7 npc/conscript/dontaskme {Len 0.96}
+CONSCRIPT_ANSWER8 npc/conscript/dontbet {Len 0.87}
+CONSCRIPT_ANSWER9 barney/dontbuyit {Len 0.00}
+CONSCRIPT_ANSWER10 npc/conscript/dontfigure {Len 1.31}
+CONSCRIPT_ANSWER11 npc/conscript/dontguess {Len 0.93}
+CONSCRIPT_ANSWER12 npc/conscript/hardtosay {Len 0.92}
+CONSCRIPT_ANSWER13 npc/conscript/justdontknow {Len 0.99}
+CONSCRIPT_ANSWER14 npc/conscript/nope {Len 0.35}
+CONSCRIPT_ANSWER15 npc/conscript/nosir {Len 0.55}
+CONSCRIPT_ANSWER16 npc/conscript/cantfigure {Len 1.16}
+CONSCRIPT_ANSWER17 npc/conscript/maybe {Len 0.47}
+CONSCRIPT_ANSWER18 npc/conscript/notelling {Len 1.03}
+CONSCRIPT_ANSWER19 npc/conscript/bequiet {Len 1.96}
+CONSCRIPT_ANSWER20 npc/conscript/youtalkmuch {Len 1.38}
+CONSCRIPT_ANSWER21 npc/conscript/alreadyasked {Len 1.18}
+
+// player is staring at Conscript
+CONSCRIPT_STARE0 npc/conscript/yup {Len 0.41}
+CONSCRIPT_STARE1 npc/conscript/yessir {Len 0.43}
+CONSCRIPT_STARE2 npc/conscript/howyoudoing {Len 0.71}
+CONSCRIPT_STARE3 npc/conscript/heyfella {Len 0.27}
+
+CONSCRIPT_IDLE0 npc/conscript/whatisthat {Len 1.61}
+CONSCRIPT_IDLE1 npc/conscript/coldone {Len 2.54}
+CONSCRIPT_IDLE2 npc/conscript/guyresponsible {Len 3.40}
+CONSCRIPT_IDLE3 npc/conscript/bigmess {Len 2.67}
+CONSCRIPT_IDLE4 npc/conscript/luckwillturn {Len 2.03}
+CONSCRIPT_IDLE5 npc/conscript/bigplace {Len 2.20}
+CONSCRIPT_IDLE6 npc/conscript/targetpractice {Len 3.26}
+CONSCRIPT_IDLE7 npc/conscript/badfeeling {Len 2.70}
+CONSCRIPT_IDLE8 npc/conscript/ambush {Len 2.42}
+CONSCRIPT_IDLE9 npc/conscript/survive {Len 2.36}
+CONSCRIPT_IDLE10 npc/conscript/stophere {Len 3.13}
+
+CONSCRIPT_ATTACK0 npc/conscript/openfire(e50) {Len 1.49}
+CONSCRIPT_ATTACK1 npc/conscript/openfire(s50) {Len 1.49}
+CONSCRIPT_ATTACK2 npc/conscript/standback {Len 0.87}
+CONSCRIPT_ATTACK3 npc/conscript/whatisthat {Len 1.61}
+CONSCRIPT_ATTACK4 npc/conscript/diebloodsucker {Len 1.72}
+CONSCRIPT_ATTACK5 npc/conscript/aimforhead {Len 1.69}
+
+CONSCRIPT_HEAR0 npc/conscript/hearsomething {Len 0.90}
+CONSCRIPT_HEAR1 npc/conscript/icanhear {Len 1.07}
+CONSCRIPT_HEAR2 npc/conscript/soundsbad {Len 1.62}
+
+CONSCRIPT_SMELL0 npc/conscript/somethingdied {Len 2.78}
+CONSCRIPT_SMELL1 npc/conscript/somethingstinky {Len 2.17}
+CONSCRIPT_SMELL2 npc/conscript/stench {Len 1.62}
+
+CONSCRIPT_CUREA npc/conscript/checkwounds {Len 1.61}
+CONSCRIPT_CUREB npc/conscript/youneedmedic {Len 2.09}
+CONSCRIPT_CUREC npc/conscript/realbadwound {Len 3.18}
+
+CONSCRIPT_SCARED0 npc/conscript/donthurtem {Len 1.19}
+CONSCRIPT_SCARED1 npc/conscript/leavealone {Len 2.50}
+
+CONSCRIPT_WOUND0 npc/conscript/imhit {Len 2.05}
+CONSCRIPT_WOUND1 npc/conscript/hitbad {Len 2.23}
+CONSCRIPT_MORTAL0 npc/conscript/imdead {Len 3.90}
+
+//If you shoot Conscript:
+CONSCRIPT_SHOT0 npc/conscript/ba_whoathere {Len 1.37}
+CONSCRIPT_SHOT1 npc/conscript/ba_dotoyou {Len 1.60}
+CONSCRIPT_SHOT2 npc/conscript/ba_watchit {Len 1.37}
+CONSCRIPT_SHOT3 npc/conscript/ba_whatyou {Len 1.20}
+CONSCRIPT_SHOT4 npc/conscript/ba_friends {Len 2.80}
+CONSCRIPT_SHOT5 npc/conscript/ba_pissme {Len 1.77}
+
+//When Conscript’s really pissed at you:
+CONSCRIPT_MAD0 npc/conscript/ba_stepoff {Len 1.37}
+CONSCRIPT_MAD1 npc/conscript/ba_iwish {Len 1.49}
+CONSCRIPT_MAD2 npc/conscript/ba_uwish {Len 2.72}
+CONSCRIPT_MAD3 npc/conscript/ba_somuch {Len 2.62}
+CONSCRIPT_MAD4 npc/conscript/ba_endline {Len 1.54}
+CONSCRIPT_MAD5 npc/conscript/ba_dontmake {Len 1.77}
+CONSCRIPT_MAD6 npc/conscript/ba_tomb {Len 1.66}
+
+
+
+
+
+
+
+
+
+//ALYX
+
+//MISC
+ALYX_MISC0 temp/alyx/misc1 {Len 0.73}
+ALYX_MISC1 temp/alyx/misc2 {Len 2.21}
+ALYX_MISC2 temp/alyx/misc3 {Len 1.98}
+ALYX_MISC3 temp/alyx/misc4 {Len 1.27}
+ALYX_MISC4 temp/alyx/misc5 {Len 0.77}
+ALYX_MISC5 temp/alyx/misc6 {Len 0.79}
+ALYX_MISC6 temp/alyx/misc7 {Len 0.91}
+ALYX_MISC7 temp/alyx/misc8 {Len 0.57}
+ALYX_MISC8 temp/alyx/misc9 {Len 0.39}
+ALYX_MISC9 temp/alyx/misc10 {Len 0.60}
+ALYX_MISC10 temp/alyx/misc11 {Len 0.46}
+ALYX_MISC11 temp/alyx/misc12 {Len 0.91}
+ALYX_MISC12 temp/alyx/misc13 {Len 0.57}
+ALYX_MISC13 temp/alyx/misc14 {Len 0.76}
+ALYX_MISC14 temp/alyx/misc15 {Len 0.41}
+ALYX_MISC15 temp/alyx/misc16 {Len 0.84}
+ALYX_MISC16 temp/alyx/misc17 {Len 0.81}
+ALYX_MISC17 temp/alyx/misc18 {Len 0.67}
+ALYX_MISC18 temp/alyx/misc19 {Len 1.02}
+ALYX_MISC19 temp/alyx/misc20 {Len 1.10}
+
+
+
+//VORTIGAUNT
+
+
+//Player in Line of Fire
+VORT_LINE_FIRE0 npc/vort/speech/line_fire00 {Len 1.47}
+VORT_LINE_FIRE1 npc/vort/speech/line_fire01 {Len 2.02}
+VORT_LINE_FIRE2 npc/vort/speech/line_fire02 {Len 1.74}
+VORT_LINE_FIRE3 npc/vort/speech/line_fire03 {Len 1.51}
+VORT_LINE_FIRE4 npc/vort/speech/line_fire04 {Len 2.75}
+
+
+VORT_OK0 npc/vort/speech/ok00 {Len 3.35}
+VORT_OK1 npc/vort/speech/ok01 {Len 2.75}
+VORT_OK2 npc/vort/speech/ok02 {Len 1.51}
+VORT_OK3 npc/vort/speech/ok03 {Len 2.62}
+VORT_OK4 npc/vort/speech/ok04 {Len 2.25}
+VORT_OK5 npc/vort/speech/ok05 {Len 2.94}
+VORT_OK6 npc/vort/speech/ok06 {Len 2.80}
+VORT_OK7 npc/vort/speech/ok07 {Len 2.02}
+VORT_OK8 npc/vort/speech/ok08 {Len 1.42}
+VORT_OK9 npc/vort/speech/ok09 {Len 3.26}
+
+
+VORT_WAIT0 npc/vort/speech/wait00 {Len 2.66}
+VORT_WAIT1 npc/vort/speech/wait01 {Len 3.26}
+VORT_WAIT2 npc/vort/speech/wait02 {Len 1.51}
+VORT_WAIT3 npc/vort/speech/wait03 {Len 2.66}
+VORT_WAIT4 npc/vort/speech/wait04 {Len 2.25}
+VORT_WAIT5 npc/vort/speech/wait05 {Len 2.75}
+
+
+//When Vort's killed something
+VORT_KILL0 npc/vort/speech/kill00 {Len 1.79}
+VORT_KILL1 npc/vort/speech/kill01 {Len 2.02}
+VORT_KILL2 npc/vort/speech/kill02 {Len 2.02}
+VORT_KILL3 npc/vort/speech/kill03 {Len 2.02}
+VORT_KILL4 npc/vort/speech/kill04 {Len 2.29}
+VORT_KILL5 npc/vort/speech/kill05 {Len 1.38}
+VORT_KILL6 npc/vort/speech/kill06 {Len 2.11}
+
+VORT_HELLO0 npc/vort/speech/hello00 {Len 1.61}
+VORT_HELLO1 npc/vort/speech/hello01 {Len 2.34}
+VORT_HELLO2 npc/vort/speech/hello02 {Len 1.79}
+VORT_HELLO3 npc/vort/speech/hello03 {Len 1.74}
+VORT_HELLO4 npc/vort/speech/hello04 {Len 2.20}
+VORT_HELLO5 npc/vort/speech/hello05 {Len 2.94}
+VORT_HELLO6 npc/vort/speech/hello06 {Len 2.52}
+VORT_HELLO7 npc/vort/speech/hello07 {Len 2.94}
+VORT_HELLO8 npc/vort/speech/hello08 {Len 2.16}
+VORT_HELLO9 npc/vort/speech/hello09 {Len 2.71}
+VORT_HELLO10 npc/vort/speech/hello10 {Len 1.29}
+VORT_HELLO11 npc/vort/speech/hello11 {Len 3.58}
+
+
+//VORTIGAUNTS Q&A ONLY WITH OTHER VORTIGAUNTS
+VORT_QUESTION0 npc/vort/speech/question00 {Len 2.29}
+VORT_QUESTION1 npc/vort/speech/question01 {Len 2.71}
+VORT_QUESTION2 npc/vort/speech/question02 {Len 2.16}
+VORT_QUESTION3 npc/vort/speech/question03 {Len 2.39}
+VORT_QUESTION4 npc/vort/speech/question04 {Len 1.97}
+VORT_QUESTION5 npc/vort/speech/question05 {Len 2.02}
+VORT_QUESTION6 npc/vort/speech/question06 {Len 2.48}
+VORT_QUESTION7 npc/vort/speech/question07 {Len 2.52}
+
+
+VORT_ANSWER0 npc/vort/speech/answer00 {Len 2.02}
+VORT_ANSWER1 npc/vort/speech/answer01 {Len 3.12}
+VORT_ANSWER2 npc/vort/speech/answer02 {Len 1.79}
+VORT_ANSWER3 npc/vort/speech/answer03 {Len 2.07}
+VORT_ANSWER4 npc/vort/speech/answer04 {Len 1.84}
+VORT_ANSWER5 npc/vort/speech/answer05 {Len 1.84}
+VORT_ANSWER6 npc/vort/speech/answer06 {Len 2.16}
+VORT_ANSWER7 npc/vort/speech/answer07 {Len 1.61}
+VORT_ANSWER8 npc/vort/speech/answer08 {Len 1.65}
+VORT_ANSWER9 npc/vort/speech/answer09 {Len 1.79}
+VORT_ANSWER10 npc/vort/speech/answer10 {Len 1.38}
+VORT_ANSWER11 npc/vort/speech/answer11 {Len 1.93}
+
+// player is staring at Vort
+VORT_STARE0 npc/vort/speech/stare00 {Len 3.08}
+VORT_STARE1 npc/vort/speech/stare02 {Len 1.97}
+VORT_STARE2 npc/vort/speech/stare03 {Len 3.44}
+VORT_STARE3 npc/vort/speech/stare04 {Len 1.38}
+VORT_STARE4 npc/vort/speech/stare05 {Len 1.19}
+VORT_STARE5 npc/vort/speech/stare06 {Len 1.93}
+VORT_STARE6 npc/vort/speech/stare07 {Len 0.00}
+
+
+VORT_IDLE0 npc/vort/speech/idle00 {Len 4.31}
+VORT_IDLE1 npc/vort/speech/idle01 {Len 1.84}
+VORT_IDLE2 npc/vort/speech/idle02 {Len 2.66}
+VORT_IDLE3 npc/vort/speech/idle03 {Len 3.76}
+VORT_IDLE4 npc/vort/speech/idle04 {Len 4.45}
+VORT_IDLE5 npc/vort/speech/idle05 {Len 4.13}
+VORT_IDLE6 npc/vort/speech/idle06 {Len 2.80}
+
+
+VORT_ATTACK0 npc/vort/speech/attack00 {Len 1.74}
+VORT_ATTACK1 npc/vort/speech/attack01 {Len 1.61}
+VORT_ATTACK2 npc/vort/speech/attack02 {Len 1.33}
+VORT_ATTACK3 npc/vort/speech/attack03 {Len 2.39}
+VORT_ATTACK4 npc/vort/speech/attack04 {Len 1.70}
+VORT_ATTACK5 npc/vort/speech/attack05 {Len 1.56}
+VORT_ATTACK6 npc/vort/speech/attack06 {Len 1.56}
+VORT_ATTACK7 npc/vort/speech/attack07 {Len 1.84}
+VORT_ATTACK8 npc/vort/speech/attack08 {Len 1.65}
+
+
+VORT_HEAR0 npc/vort/speech/hear00 {Len 1.65}
+VORT_HEAR1 npc/vort/speech/hear02 {Len 0.73}
+VORT_HEAR2 npc/vort/speech/hear03 {Len 0.00}
+
+
+
+//VORTIGAUNTS RECHARGE YOU AFTER BATTLE
+VORT_CURE0 npc/vort/speech/cure00 {Len 2.66}
+VORT_CURE1 npc/vort/speech/cure01 {Len 2.48}
+VORT_CURE2 npc/vort/speech/cure02 {Len 3.12}
+VORT_CURE3 npc/vort/speech/cure03 {Len 2.25}
+VORT_CURE4 npc/vort/speech/cure04 {Len 2.66}
+
+//VORT FINISHED RECHARGING
+VORT_CURESTOP0 npc/vort/speech/curestop00 {Len 3.03}
+VORT_CURESTOP1 npc/vort/speech/curestop01 {Len 1.84}
+VORT_CURESTOP2 npc/vort/speech/curestop02 {Len 3.26}
+VORT_CURESTOP3 npc/vort/speech/curestop03 {Len 3.26}
+
+
+//PLAYER MOVES AWAY FROM VORT DURING RECHARGE
+VORT_CURE_INTERRUPT0 npc/vort/speech/cure_interrupt00 {Len 3.17}
+VORT_CURE_INTERRUPT1 npc/vort/speech/cure_interrupt01 {Len 3.03}
+VORT_CURE_INTERRUPT2 npc/vort/speech/cure_interrupt02 {Len 3.17}
+
+
+
+//WHAT VORTS SAY IF YOU BEAT UP ANOTHER OF THEIR KIND
+VORT_SCARED0 npc/vort/speech/scared00 {Len 1.84}
+VORT_SCARED1 npc/vort/speech/scared01 {Len 2.66}
+VORT_SCARED2 npc/vort/speech/scared02 {Len 1.70}
+VORT_SCARED3 npc/vort/speech/scared03 {Len 1.61}
+VORT_SCARED4 npc/vort/speech/scared04 {Len 2.16}
+VORT_SCARED5 npc/vort/speech/scared05 {Len 2.39}
+
+
+VORT_WOUND0 npc/vort/speech/wound00 {Len 1.97}
+VORT_WOUND1 npc/vort/speech/wound01 {Len 1.47}
+VORT_WOUND2 npc/vort/speech/wound02 {Len 2.48}
+VORT_WOUND3 npc/vort/speech/wound03 {Len 3.12}
+VORT_WOUND4 npc/vort/speech/wound04 {Len 3.35}
+VORT_WOUND5 npc/vort/speech/wound05 {Len 2.80}
+VORT_WOUND6 npc/vort/speech/wound06 {Len 2.11}
+
+//If you shoot Vort:
+VORT_SHOT0 npc/vort/speech/shot00 {Len 2.75}
+VORT_SHOT1 npc/vort/speech/shot01 {Len 1.84}
+VORT_SHOT2 npc/vort/speech/shot02 {Len 2.43}
+VORT_SHOT3 npc/vort/speech/shot03 {Len 1.93}
+VORT_SHOT4 npc/vort/speech/shot04 {Len 1.70}
+VORT_SHOT5 npc/vort/speech/shot05 {Len 1.70}
+
+
+//When Vort’s really pissed at you:
+VORT_MAD0 npc/vort/speech/mad00 {Len 3.35}
+VORT_MAD1 npc/vort/speech/mad01 {Len 3.72}
+VORT_MAD2 npc/vort/speech/mad02 {Len 3.44}
+VORT_MAD3 npc/vort/speech/mad03 {Len 2.20}
+VORT_MAD4 npc/vort/speech/mad04 {Len 2.02}
+VORT_MAD5 npc/vort/speech/mad05 {Len 2.34}
+VORT_MAD6 npc/vort/speech/mad06 {Len 2.48}
+VORT_MAD7 npc/vort/speech/mad07 {Len 2.80}
+VORT_MAD8 npc/vort/speech/mad08 {Len 1.61}
+VORT_MAD9 npc/vort/speech/mad09 {Len 2.29}
+VORT_MAD10 npc/vort/speech/mad10 {Len 1.10}
+
+
+
+//Vort Pain sound
+VORT_PAIN0 npc/vort/vort_pain1 {Len 0.47}
+VORT_PAIN1 npc/vort/vort_pain2 {Len 0.70}
+
+//Vort Death sound
+VORT_DIE0 npc/vort/vort_die1 {Len 1.53}
+VORT_DIE1 npc/vort/vort_die2 {Len 1.76}
+
+
+
+//STALKER
+
+
+//SCRAMBLE 
+// STALKER_SCRAMBLE0 npc/stalker/scramble1 {Len 0.60}
+// STALKER_SCRAMBLE1 npc/stalker/scramble2 {Len 0.57}
+// STALKER_SCRAMBLE2 npc/stalker/scramble3 {Len 0.56}
+// STALKER_SCRAMBLE3 npc/stalker/scramble4 {Len 0.51}
+// STALKER_SCRAMBLE4 npc/stalker/scramble5 {Len 0.49}
+// STALKER_SCRAMBLE5 npc/stalker/scramble6 {Len 0.60}
+// STALKER_SCRAMBLE6 npc/stalker/scramble7 {Len 0.44}
+// STALKER_SCRAMBLE7 npc/stalker/scramble8 {Len 0.44}
+// STALKER_SCRAMBLE8 npc/stalker/scramble9 {Len 0.41}
+// STALKER_SCRAMBLE9 npc/stalker/scramble10 {Len 0.41}
+
+
+//DIE
+STALKER_DIE0 npc/stalker/breathing1 {Len 2.12}
+STALKER_DIE1 npc/stalker/breathing2 {Len 1.73}
+
+//STALKER_DIE0 npc/stalker/die1 {Len 0.99}
+//STALKER_DIE1 npc/stalker/die2 {Len 0.90}
+//STALKER_DIE2 npc/stalker/die3 {Len 0.66}
+
+//PAIN
+STALKER_PAIN0 npc/stalker/pain1 {Len 0.18}
+STALKER_PAIN1 npc/stalker/pain2 {Len 0.16}
+STALKER_PAIN2 npc/stalker/pain3 {Len 0.10}
+STALKER_PAIN4 npc/stalker/pain4 {Len 0.22}
+
+//ANNOUNCE   
+// STALKER_ANNOUNCE0 npc/stalker/announce1 {Len 0.90}
+// STALKER_ANNOUNCE1 npc/stalker/announce2 {Len 0.66}
+// STALKER_ANNOUNCE2 npc/stalker/announce3 {Len 0.99}
+
+//ATTACK  
+// STALKER_ATTACK0 npc/stalker/attack1 {Len 0.45}
+// STALKER_ATTACK1 npc/stalker/attack2 {Len 0.39}
+// STALKER_ATTACK2 npc/stalker/attack3 {Len 0.46}
+
+//STALKER_ATTACK3 npc/stalker/attack4 {Len 0.61}
+//STALKER_ATTACK4 npc/stalker/attack5 {Len 0.51}
+//STALKER_ATTACK5 npc/stalker/attack6 {Len 0.56}
+//STALKER_ATTACK6 npc/stalker/attack7 {Len 0.53}
+//STALKER_ATTACK7 npc/stalker/attack8 {Len 0.46}
+//STALKER_ATTACK8 npc/stalker/attack9 {Len 0.60}
+//STALKER_ATTACK9 npc/stalker/attack10 {Len 0.67}
+
+
+//BREATHING
+//STALKER_BREATHING0 npc/stalker/breathing1 {Len 2.12}
+//STALKER_BREATHING1 npc/stalker/breathing2 {Len 1.73}
+//STALKER_BREATHING2 npc/stalker/breathing3 {Len 5.44}
+
+
+//GO ALERT
+//STALKER_GO_ALERT0 npc/stalker/go_alert1 {Len 1.73}
+//STALKER_GO_ALERT1 npc/stalker/go_alert2 {Len 2.12}
+// STALKER_GO_ALERT2 npc/stalker/go_alert3 {Len 1.51}
+
+
+
+
+//COMBINE
+
+
+
+//PAIN
+COMBINE_PAIN0 npc/combine_soldier/pain1 {Len 0.38}
+COMBINE_PAIN1 npc/combine_soldier/pain2 {Len 0.30}
+COMBINE_PAIN2 npc/combine_soldier/pain3 {Len 0.26}
+
+
+//DIE
+COMBINE_DIE0 npc/combine_soldier/die1 (v50) click_terminated {Len 0.62}
+COMBINE_DIE1 npc/combine_soldier/die2 (v50) click_terminated {Len 0.92}
+COMBINE_DIE2 npc/combine_soldier/die3 (v50) click_terminated {Len 0.80}
+
+
+//KICK
+COMBINE_KICK0 npc/combine_soldier/kick1 {Len 0.26}
+COMBINE_KICK1 npc/combine_soldier/kick2 {Len 0.31}
+
+
+
+//ANNOUNCE
+COMBINE_ANNOUNCE0 npc/combine_soldier/(v75) clik announce1 click_off {Len 0.96}
+COMBINE_ANNOUNCE1 npc/combine_soldier/(v75) clik announce2 click_off {Len 1.22}
+COMBINE_ANNOUNCE2 npc/combine_soldier/(v75) clik announce3 click_off {Len 1.45}
+
+
+//DETECT MINE
+COMBINE_DETECT_MINE0 npc/combine_soldier/(v20) clik detect_mine1 click_off {Len 1.03}
+COMBINE_DETECT_MINE1 npc/combine_soldier/(v20) clik detect_mine2 click_off {Len 1.21}
+
+
+//CLEAR MINE
+COMBINE_CLEAR_MINE0 npc/combine_soldier/(v20) clik clear_mine1 click_off {Len 1.00}
+COMBINE_CLEAR_MINE1 npc/combine_soldier/(v20) clik clear_mine2 click_off {Len 1.40}
+COMBINE_CLEAR_MINE2 npc/combine_soldier/(v20) clik clear_mine3 click_off {Len 1.16}
+
+
+//ASSAULT
+COMBINE_ASSAULT0 npc/combine_soldier/(v75) clik assault1 click_off {Len 0.87}
+COMBINE_ASSAULT1 npc/combine_soldier/(v75) clik assault2 click_off {Len 1.23}
+COMBINE_ASSAULT2 npc/combine_soldier/(v75) clik assault3 click_off {Len 1.08}
+
+
+//FLANK
+COMBINE_FLANK0 npc/combine_soldier/(v75) clik flank1 click_off {Len 1.36}
+COMBINE_FLANK1 npc/combine_soldier/(v75) clik flank2 click_off {Len 1.45}
+COMBINE_FLANK2 npc/combine_soldier/(v75) clik flank3 click_off {Len 1.15}
+
+
+//GO ALERT
+COMBINE_GO_ALERT0 npc/combine_soldier/(v75) clik go_alert1 click_off {Len 0.77}
+COMBINE_GO_ALERT1 npc/combine_soldier/(v75) clik go_alert2 click_off {Len 0.70}
+COMBINE_GO_ALERT2 npc/combine_soldier/(v75) clik go_alert3 click_off {Len 0.79}
+
+
+//LOST LONG
+COMBINE_LOST_LONG0 npc/combine_soldier/(v75) clik lost_long1 click_off {Len 1.14}
+COMBINE_LOST_LONG1 npc/combine_soldier/(v75) clik lost_long2 click_off {Len 1.08}
+COMBINE_LOST_LONG2 npc/combine_soldier/(v75) clik lost_long3 click_off {Len 1.05}
+//COMBINE_LOST_LONG3 npc/combine_soldier/clik lost_long4 click_off {Len 1.89}
+//COMBINE_LOST_LONG4 npc/combine_soldier/clik lost_long5 click_off {Len 1.42}
+//COMBINE_LOST_LONG5 npc/combine_soldier/clik lost_long6 click_off {Len 1.00}
+//COMBINE_LOST_LONG6 npc/combine_soldier/clik lost_long7 click_off {Len 2.12}
+
+//LOST SHORT
+COMBINE_LOST_SHORT0 npc/combine_soldier/(v75) clik lost_short1 click_off {Len 1.56}
+COMBINE_LOST_SHORT1 npc/combine_soldier/(v75) clik lost_short2 click_off {Len 1.19}
+COMBINE_LOST_SHORT2 npc/combine_soldier/(v75) clik lost_short3 click_off {Len 1.13}
+
+//MAN DOWN
+COMBINE_MAN_DOWN0 npc/combine_soldier/(v75) clik man_down1 click_off {Len 1.28}
+COMBINE_MAN_DOWN1 npc/combine_soldier/(v75) clik man_down2 click_off {Len 1.41}
+COMBINE_MAN_DOWN2 npc/combine_soldier/(v75) clik man_down3 click_off {Len 1.45}
+
+//PLAYER DEAD
+COMBINE_PLAYER_DEAD0 npc/combine_soldier/(v75) clik player_dead1 click_off {Len 0.82}
+COMBINE_PLAYER_DEAD1 npc/combine_soldier/(v75) clik player_dead2 click_off {Len 1.87}
+COMBINE_PLAYER_DEAD2 npc/combine_soldier/(v75) clik player_dead3 click_off {Len 1.38}
+
+
+//REFIND ENEMY
+COMBINE_REFIND_ENEMY0 npc/combine_soldier/(v75) clik refind_enemy1 click_off {Len 0.77}
+COMBINE_REFIND_ENEMY1 npc/combine_soldier/(v75) clik refind_enemy2 click_off {Len 0.98}
+COMBINE_REFIND_ENEMY2 npc/combine_soldier/(v75) clik refind_enemy3 click_off {Len 1.19}
+//COMBINE_REFIND_ENEMY3 npc/combine_soldier/clik refind_enemy4 click_off {Len 0.88}
+
+//SPOT GRENADE
+COMBINE_SPOT_GRENADE0 npc/combine_soldier/(v75) clik spot_grenade1 click_off {Len 1.15}
+COMBINE_SPOT_GRENADE1 npc/combine_soldier/(v75) clik spot_grenade2 click_off {Len 0.99}
+COMBINE_SPOT_GRENADE2 npc/combine_soldier/(v75) clik spot_grenade3 click_off {Len 1.95}
+
+
+//THROW GRENADE
+COMBINE_THROW_GRENADE0 npc/combine_soldier/(v75) clik throw_grenade1 click_off {Len 1.31}
+COMBINE_THROW_GRENADE1 npc/combine_soldier/(v75) clik throw_grenade2 click_off {Len 1.33}
+COMBINE_THROW_GRENADE2 npc/combine_soldier/(v75) clik throw_grenade3 click_off {Len 1.24}
+
+
+
+//ODELL
+OD_TEST0 odell/odtest0 {Len 3.03}
+OD_TEST1 odell/odtest1 {Len 8.03}
+OD_TEST2 odell/odtest2 {Len 12.72}
+OD_TEST3 odell/odtest3 {Len 9.84}
+OD_TEST4 odell/odtest4 {Len 9.39}
+OD_TEST5 odell/odtest5 {Len 9.84}
+OD_TEST6 odell/odtest6 {Len 6.97}
+OD_TEST7 odell/odtest7 {Len 3.63}
+OD_TEST8 odell/odtest8 {Len 11.20}
+
+//odell finds the cheese
+OD_CHEESE0 odell/cheese {Len 4.76}
+
+//odell notices you're missing
+OD_LOSTYOU0 odell/withme {Len 2.79}
+
+//odell tells you to stay put while he comes looking for you
+OD_STAYPUT0 odell/hold {Len 2.96}
+
+//odell finds you
+OD_FIND0 odell/stick {Len 2.61}
+
+//odell continues to look for you
+OD_SEEK0 odell/where {Len 2.50}
+
+// odell is asking you to come on
+OD_CATCHUP0 odell/catchup {Len 1.63}
+
+//odell resumes speech after interruption
+OD_RESUME0 odell/anyway {Len 1.80}
+OD_RESUME1 odell/wassay {Len 2.61}
+
+//CITADELTEST SERIES
+//Test sounds for Citadel
+
+CITA_HIT0 TestCitadel/hit1 {Len 2.80}
+CITA_HIT1 TestCitadel/hit2 {Len 3.74}
+CITA_HIT2 TestCitadel/hit3 {Len 2.86}
+CITA_HIT3 TestCitadel/hit4 {Len 2.19}
+
+CITA_THEME0 TestCitadel/Theme1 {Len 9.61}
+CITA_THEME1 TestCitadel/Theme2 {Len 7.30}
+CITA_THEME2 TestCitadel/Theme3 {Len 4.83}
+
+CITA_TRANS0 TestCitadel/Trans1 {Len 4.58}
+CITA_TRANS1 TestCitadel/Trans3 {Len 4.21}
+CITA_TRANS2 TestCitadel/Trans6 {Len 17.21}
+CITA_TRANS3 TestCitadel/Trans7 {Len 1.48}
+CITA_TRANS4 TestCitadel/Trans9 {Len 5.06}
+
+CITA_MIX0 TestCitadel/hit2 {Len 3.74}
+CITA_MIX1 TestCitadel/Trans3 {Len 4.21}
+CITA_MIX2 TestCitadel/Theme2 {Len 7.30}
+CITA_MIX3 TestCitadel/Hit4 {Len 2.19}
+CITA_MIX4 TestCitadel/Theme1 {Len 9.61}
+CITA_MIX5 TestCitadel/Trans9 {Len 5.06}
+CITA_MIX6 TestCitadel/Theme3 {Len 4.83}
+CITA_MIX7 TestCitadel/Hit3 {Len 2.86}
+
+CITA_MIXP0 TestCitadel/hit2(p75) {Len 4.98}
+CITA_MIXP1 TestCitadel/Trans3(p110) {Len 3.83}
+CITA_MIXP2 TestCitadel/Theme2(p60) {Len 12.17}
+CITA_MIXP3 TestCitadel/Hit4(p155) {Len 1.41}
+CITA_MIXP4 TestCitadel/Theme1(p90) {Len 10.68}
+CITA_MIXP5 TestCitadel/Trans9(p80) {Len 6.33}
+CITA_MIXP6 TestCitadel/Theme3(p120) {Len 4.02}
+CITA_MIXP7 TestCitadel/Hit3(p30) {Len 9.54}
+
+
+
+
+//CITY 17 ROOFTOP
+
+//ABSTRACT WAR SOUNDS.  Group A, B, and C
+
+C17_WARa0 ambient/areas/roof_top/war1 {Len 3.23}
+C17_WARa1 ambient/areas/roof_top/war2 {Len 2.64}
+C17_WARa2 ambient/areas/roof_top/war3 {Len 2.18}
+C17_WARa3 ambient/areas/roof_top/war4 {Len 1.25}
+C17_WARa4 ambient/areas/roof_top/war5 {Len 2.28}
+
+C17_WARb0 ambient/areas/roof_top/war6 {Len 2.59}
+C17_WARb1 ambient/areas/roof_top/war7 {Len 1.33}
+C17_WARb2 ambient/areas/roof_top/war8 {Len 1.36}
+C17_WARb3 ambient/areas/roof_top/war9 {Len 0.61}
+C17_WARb4 ambient/areas/roof_top/war10 {Len 3.03}
+
+C17_WARc0 ambient/areas/roof_top/war11 {Len 1.81}
+C17_WARc1 ambient/areas/roof_top/war12 {Len 2.72}
+C17_WARc2 ambient/areas/roof_top/war13 {Len 2.15}
+C17_WARc3 ambient/areas/roof_top/war14 {Len 1.13}
+C17_WARc4 ambient/areas/roof_top/war15 {Len 2.08}
+
+
+
+//ABSTRACT SPEECH SOUNDS.  Group A and B.
+
+C17_SPEECHa0 ambient/areas/roof_top/speech1 {Len 2.73}
+C17_SPEECHa1 ambient/areas/roof_top/speech2 {Len 2.11}
+C17_SPEECHa2 ambient/areas/roof_top/speech3 {Len 3.36}
+C17_SPEECHa3 ambient/areas/roof_top/speech4 {Len 1.78}
+
+C17_SPEECHb0 ambient/areas/roof_top/speech5 {Len 1.72}
+C17_SPEECHb1 ambient/areas/roof_top/speech6 {Len 3.90}
+C17_SPEECHb2 ambient/areas/roof_top/speech7 {Len 2.41}
+
+
+//ABSTRACT CROWD SOUNDS
+
+C17_CROWD0 ambient/areas/roof_top/crowd1 {Len 4.21}
+C17_CROWD1 ambient/areas/roof_top/crowd2 {Len 5.54}
+C17_CROWD2 ambient/areas/roof_top/crowd3 {Len 5.09}
+C17_CROWD3 ambient/areas/roof_top/crowd4 {Len 5.99}
+
+
+//CITY 17 PA ANNOUNCEMENTS
+
+//CALM CITY SERIES
+
+//PUBLIC ADDRESS
+C17_PA0 c17/city_listentone1, c17pa0, city_listentone1 {Len 11.18}
+C17_PA1 c17/city_listentone1, c17pa1, city_listentone1 {Len 13.88}
+C17_PA2 c17/city_listentone1, c17pa2, city_listentone1 {Len 12.45}
+C17_PA3 c17/city_listentone1, c17pa3, city_listentone1 {Len 10.73}
+C17_PA4 c17/city_listentone1, c17pa4, city_listentone1 {Len 10.78}
+
+
+//CALM CITY AMBIENT NOISES
+C17_CALM0 c17/city_skypass1 {Len 8.82}
+C17_CALM2 c17/city_truckpass1 {Len 8.47}
+C17_CALM3 c17/city_skypass1(p80) {Len 11.03}
+C17_CALM5 c17/city_truckpass1(p125) {Len 6.78}
+C17_CALM6 c17/city_skypass1(p115) {Len 7.67}
+C17_CALM7 c17/city_truckpass1(p90) {Len 9.41}
+
+
+
+//WARTORN CITY SERIES
+C17_WAR0 {Len 0.00}
+C17_WAR1 {Len 0.00}
+
+//CITIZEN RIOT SOUNDS
+CIT_RIOT0 citizen/cit_tv1 {Len 1.55}
+CIT_RIOT1 citizen/cit_tv2 {Len 2.51}
+CIT_RIOT2 citizen/cit_tv3 {Len 1.41}
+CIT_RIOT3 citizen/cit_tv4 {Len 2.62}
+
+
+/
+
+// HEV Suit
+
+// powerup
+
+HEV_AAx fvox/bell
+
+//HEV_logon, powerarmor_on, atmospherics_on,vitalsigns_on, automedic_on, weaponselect_on, munitionview_on, communications_on, safe_day {Len 41.76}
+
+//HEV_A0 fvox/bell, HEV_logon {Len 11.07}
+
+//HEV_A1 fvox/blip blip(p130) powermove_on {Len 3.71}
+//HEV_A2 fvox/blip blip powerarmor_on {Len 4.42}
+//HEV_A3 fvox/blip blip(p130) atmospherics_on {Len 4.41}
+//HEV_A4 fvox/blip blip vitalsigns_on boop, boop, boop {Len 5.28}
+//HEV_A5 fvox/blip blip(p130) munitionview_on {Len 3.84}
+//HEV_A6 fvox/blip blip communications_on {Len 3.59}
+//HEV_A7 fvox/blip blip(p70) weaponselect_on {Len 3.97}
+//HEV_A8 fvox/blip blip(p70) automedic_on {Len 3.77}
+//HEV_A9 fvox/fuzz power_level_is onehundred percent {Len 4.14}
+//HEV_A10 fvox/safe_day, bell {Len 3.66}
+
+// medical
+HEV_DEAD0 fvox/beep beep, beep beep, beep, beep, flatline {Len 6.29}
+HEV_DEAD1 fvox/beep beep, beep beep, beep, flatline {Len 5.82}
+
+HEV_MED0 fvox/(p140) boop, boop, boop, (p100) innsufficient_medical {Len 1.41}
+HEV_MED1 fvox/(p140) boop, boop, boop, (p100) automedic_on {Len 4.92}
+HEV_MED2 fvox/(p140) boop, boop, boop, (p100) administering_medical {Len 1.41}
+
+HEV_HEAL0 fvox/(p140) boop, boop, boop, (p100) wound_sterilized, blip(p130 v50), blip(p130 v40), hiss, morphine_shot {Len 7.03}
+HEV_HEAL1 fvox/(p140) boop, boop, boop, (p100) torniquette_applied, bleeding_stopped {Len 7.03}
+HEV_HEAL2 fvox/(p140) boop, boop, boop, (p100) bleeding_stopped {Len 3.66}
+HEV_HEAL3 fvox/(p140) boop, boop, boop, (p100) blood_plasma {Len 4.02}
+HEV_HEAL4 fvox/(p140) boop, boop, boop, (p100) hiss, antitoxin_shot {Len 4.38}
+HEV_HEAL5 fvox/(p140) boop, boop, boop, (p100) hiss, antidote_shot {Len 4.17}
+HEV_HEAL6 fvox/(p140) boop, boop, boop, (p100) hiss, wound_sterilized {Len 4.16}
+HEV_HEAL7 fvox/(p140) boop, boop, boop, (p100) hiss, morphine_shot {Len 4.16}
+HEV_HEAL8 fvox/(p140) boop, boop, boop, (p100) medical_repaired {Len 4.17}
+
+HEV_DMG0 fvox/(p160) boop, boop, boop, (p100) minor_lacerations {Len 4.09}
+HEV_DMG1 fvox/(p160) boop, boop, boop, (p100) major_lacerations {Len 4.19}
+HEV_DMG2 fvox/(p160) boop, boop, boop, (p100) internal_bleeding {Len 3.64}
+HEV_DMG3 fvox/(p160) boop, boop, boop, (p100) blood_toxins {Len 5.04}
+HEV_DMG4 fvox/(p160) boop, boop, boop, (p100) minor_fracture {Len 3.67}
+HEV_DMG5 fvox/(p160) boop, boop, boop, (p100) major_fracture {Len 3.67}
+HEV_DMG6 fvox/(p160) boop, boop, boop, (p100) blood_loss {Len 3.39}
+HEV_DMG7 fvox/(p140) boop, boop, boop, (p100) seek_medic {Len 3.92}
+
+HEV_HLTH0 fvox/(p120) beep, beep, (p100) health_dropping {Len 4.31}
+HEV_HLTH1 fvox/(p120) beep, beep, (p100) health_dropping2 {Len 3.68}
+HEV_HLTH2 fvox/(p120) beep, beep, beep, (p100) health_critical {Len 4.32}
+HEV_HLTH3 fvox/(p120) beep, beep, beep, (p100) near_death {Len 4.77}
+HEV_HLTH4 fvox/(p140) beep, beep, (p100) health_dropping2, evacuate_area {Len 5.93}
+HEV_HLTH5 fvox/(p140) beep, beep, beep, (p100) health_critical, evacuate_area {Len 6.52}
+HEV_HLTH6 fvox/(p140) beep, beep, beep, (p100) near_death, evacuate_area immediately {Len 8.22}
+
+HEV_SHOCK fvox/(p120) beep, beep, (p100) warning, shock_damage {Len 4.05}
+HEV_FIRE fvox/(p120) beep, beep, (p100) warning, heat_damage {Len 4.77}
+
+// items
+HEV_AIM_ON fvox/blip targetting_system activated {Len 4.02}
+HEV_AIM_OFF fvox/blip targetting_system deactivated {Len 4.27}
+HEV_BATTERY fvox/blip get_battery acquired {Len 0.92}
+HEV_MEDKIT fvox/blip get_medkit(v80) {Len 0.11}
+
+HEV_PISTOL fvox/blip get_pistol acquired {Len 0.92}
+HEV_SHOTGUN fvox/blip get_shotgun {Len 0.11}
+HEV_GRENADE fvox/blip get_grenade acquired {Len 0.92}
+HEV_ASSAULT fvox/blip get_assault acquired {Len 0.92}
+HEV_44PISTOL fvox/blip get_44pistol acquired {Len 0.92}
+HEV_RPG fvox/blip get_rpg acquired {Len 0.92}
+HEV_SATCHEL fvox/blip get_satchel acquired {Len 0.92}
+HEV_TRIPMINE fvox/blip get_tripmine acquired {Len 0.92}
+HEV_HORNET fvox/blip get_alien_wpn {Len 0.11}
+HEV_SQUEEK fvox/blip get_alien_wpn {Len 0.11}
+HEV_EGON fvox/blip get_egon acquired {Len 0.92}
+HEV_GAUSS fvox/blip get_gauss acquired {Len 0.92}
+HEV_XBOW fvox/blip get_crossbow acquired {Len 0.92}
+
+HEV_9MM fvox/blip get_9mmclip acquired {Len 0.92}
+HEV_44AMMO fvox/blip get_44ammo acquired {Len 0.92}
+HEV_BUCKSHOT fvox/blip get_buckshot acquired {Len 0.92}
+HEV_BOLTS fvox/blip get_bolts acquired {Len 0.92}
+HEV_RPGAMMO fvox/blip get_rpgammo acquired {Len 0.92}
+HEV_AGRENADE fvox/blip get_assaultgren acquired {Len 0.92}
+HEV_EGONPOWER fvox/blip get_egonpower acquired {Len 0.92}
+
+// time
+
+//HEV_C1t fvox/bell time_is_now one AM
+//HEV_C13t fvox/bell time_is_now one PM
+
+// power levels
+
+HEV_D00 fvox/fuzz fuzz(p130), power_restored {Len 2.12}
+HEV_D01 fvox/fuzz fuzz(p80), hev_shutdown {Len 4.99}
+
+HEV_0P fvox/fuzz fuzz, power_below five percent {Len 6.35}
+HEV_1P fvox/fuzz fuzz, power_restored(e30), ten percent {Len 2.75}
+HEV_2P fvox/fuzz fuzz, power_restored(e30), fifteen percent {Len 3.15}
+HEV_3P fvox/fuzz fuzz, power_restored(e30), twenty percent {Len 2.99}
+HEV_4P fvox/fuzz fuzz, power_restored(e30), twenty five percent {Len 3.87}
+HEV_5P fvox/fuzz fuzz, power_restored(e30), thirty percent {Len 3.04}
+HEV_6P fvox/fuzz fuzz, power_restored(e30), thirty five percent {Len 3.91}
+HEV_7P fvox/fuzz fuzz, power_restored(e30), fourty percent {Len 3.07}
+HEV_8P fvox/fuzz fuzz, power_restored(e30), fourty five percent {Len 3.95}
+HEV_9P fvox/fuzz fuzz, power_restored(e30), fifty percent {Len 3.17}
+HEV_10P fvox/fuzz fuzz, power_restored(e30), fifty five percent {Len 4.05}
+HEV_11P fvox/fuzz fuzz, power_restored(e30), sixty percent {Len 3.16}
+HEV_12P fvox/fuzz fuzz, power_restored(e30), sixty five percent {Len 4.04}
+HEV_13P fvox/fuzz fuzz, power_restored(e30), seventy percent {Len 3.12}
+HEV_14P fvox/fuzz fuzz, power_restored(e30), seventy five percent {Len 4.00}
+HEV_15P fvox/fuzz fuzz, power_restored(e30), eighty percent {Len 2.88}
+HEV_16P fvox/fuzz fuzz, power_restored(e30), eighty five percent {Len 3.76}
+HEV_17P fvox/fuzz fuzz, power_restored(e30), ninety percent {Len 3.12}
+HEV_18P fvox/fuzz fuzz, power_restored(e30), ninety five percent {Len 4.00}
+HEV_19P fvox/fuzz fuzz, power_level_is onehundred percent {Len 4.62}
+
+// weapon/ammo
+
+HEV_AMO0 fvox/blip ammo_depleted {Len 2.16}
+
+// suit
+
+HEV_V0 fvox/blip, voice_on {Len 3.17}
+HEV_V1 fvox/blip, voice_off {Len 3.06}
+
+HEV_E0 fvox/buzz buzz, armor_gone {Len 2.95}
+HEV_E1 fvox/buzz, armor_gone {Len 2.62}
+HEV_E2 fvox/buzz, hev_critical_fail {Len 4.75}
+HEV_E3 fvox/buzz, hev_general_fail {Len 3.22}
+HEV_E4 fvox/buzz, hev_damage {Len 3.53}
+HEV_E5 fvox/buzz, powermove_overload {Len 4.98}
+
+// time remaining countdown
+
+//HEV_F10t fvox/bell time_remaining ten seconds
+//HEV_F15t fvox/bell time_remaining fifteen seconds
+//HEV_F20t fvox/bell time_remaining twenty seconds
+//HEV_F30t fvox/bell time_remaining thirty seconds
+
+// detections
+
+HEV_DET0 fvox/blip blip blip, biohazard_detected {Len 3.67}
+HEV_DET1 fvox/blip blip blip, chemical_detected {Len 4.33}
+HEV_DET2 fvox/blip blip blip, radiation_detected {Len 5.08}
+HEV_DET3 fvox/blip blip blip, bio_reading {Len 2.93}
+HEV_DET4 fvox/blip blip blip, antitoxin_shot(e50), onehundred percent {Len 3.67}
+HEV_DET5 fvox/blip blip blip, antitoxin_shot(e25) radiation_detected(e50), onehundred percent {Len 5.37}
+
+//HEV_GR0r fvox/range twenty meters(t60)
+//HEV_GR1r fvox/range nineteen meters
+//HEV_GR2r fvox/range eighteen meters
+
+
+// Combine Elite
+COMBINE_GREN0 npc/combine_soldier/(v30) clik(p120) grenade! click_off {Len 1.17}
+//COMBINE_GREN1 npc/combine_soldier/(t30) clik take!(e75) cover!(s5) click_off {Len 0.95}
+//COMBINE_GREN2 npc/combine_soldier/clik clik oh! shit! click_off {Len 1.59}
+//COMBINE_GREN3 npc/combine_soldier/(p110 t40) clik(p120) get!(e78) down!(t30) click_off {Len 0.78}
+//COMBINE_GREN4 npc/combine_soldier/clik(p110) (t40) of!(e75) god! click_off(p110) {Len 0.82}
+//COMBINE_GREN5 npc/combine_soldier/clik no! click_off {Len 0.91}
+//COMBINE_GREN6 npc/combine_soldier/clik move! click_off(p120) {Len 1.04}
+
+// Player Alert
+COMBINE_ALERT0 npc/combine_soldier/(v30) clik(p110) target click_off {Len 1.13}
+//COMBINE_ALERT1 npc/combine_soldier/(v10) (t30) squad!, we!(e80) got!(e80) freeman!(t20 p105), click_off(p110) {Len 2.14}
+//COMBINE_ALERT2 npc/combine_soldier/clik movement! click_off {Len 1.18}
+//COMBINE_ALERT3 npc/combine_soldier/(t40) shit!(t20), (t50) we! got! hostiles!(p120 t0) click_off {Len 2.07}
+//COMBINE_ALERT4 npc/combine_soldier/(t20) clik(p110) squad!, get!(e80) freeman!, click_off(p110) clik {Len 2.37}
+//COMBINE_ALERT5 npc/combine_soldier/(t20) clik squad!, neutralize!(e90) freeman! click_off {Len 2.67}
+//COMBINE_ALERT6 npc/combine_soldier/(t30) clik clik move!(e75) in! click_off(p120) {Len 1.06}
+
+// Monster Alert
+COMBINE_MONST0 npc/combine_soldier/(v30) clik (t30) movement!(t0) click_off(p120) {Len 1.72}
+//COMBINE_MONST1 npc/combine_soldier/clik(p110) (t40) clik(p120) we!(e75) got! bogies! click_off {Len 1.30}
+//COMBINE_MONST2 npc/combine_soldier/clik clik (t30) alien!(e85) alert! click_off {Len 1.46}
+//COMBINE_MONST3 npc/combine_soldier/(v10) clik(p110) (t50) bogies!(t0), my! sector!(t0) click_off {Len 2.28}
+
+// Take cover
+COMBINE_COVER0 npc/combine_soldier/(v30) clik (t40) cover!(e75) fire! click_off {Len 0.95}
+//COMBINE_COVER1 npc/combine_soldier/clik (t30) take! cover!(t0) click_off
+//COMBINE_COVER2 npc/combine_soldier/clik (t45) we! need! backup!(t10) click_off
+//COMBINE_COVER3 npc/combine_soldier/clik(p120) (t40) two!(e75) hot!(e80) here! click_off
+//COMBINE_COVER4 npc/combine_soldier/clik(p110) (t30) fall!(e80) out! clik click_off
+//COMBINE_COVER5 npc/combine_soldier/clik(p120) (t20) clear! this! area! click_off
+//COMBINE_COVER6 npc/combine_soldier/clik (t40) god! damn! click_off
+
+
+// Throw grenade
+COMBINE_THROW0 npc/combine_soldier/(v30) clik (t35) cover! click_off(p120) {Len 1.66}
+//COMBINE_THROW1 npc/combine_soldier/clik (t30) take!(e75) this!(e100 t0) click_off {Len 1.03}
+//COMBINE_THROW2 npc/combine_soldier/(v10) clik(p120) (t40) fire!(e90) in!(e90) the!(e60) hole!(e100) click_off {Len 1.37}
+//COMBINE_THROW3 npc/combine_soldier/clik(p110) (t35 e80) squad, stay down click_off {Len 1.51}
+ 
+// Taunt
+COMBINE_TAUNT0 npc/combine_soldier/(v30) clik(p110) (t40) request! backup! click_off(p120) clik {Len 1.32}
+//COMBINE_TAUNT1 npc/combine_soldier/clik(p120) (t40) roger, hold position click_off {Len 1.82}
+//COMBINE_TAUNT2 npc/combine_soldier/clik (t40) we!(e80) will!(e75) kick!(e80) your!(e75) ass! click_off {Len 1.55}
+//COMBINE_TAUNT3 npc/combine_soldier/clik (t40) mister, you(e75) are going down click_off {Len 2.28}
+//COMBINE_TAUNT4 npc/combine_soldier/clik(p120) (t40) you got nothing click_off {Len 1.45}
+// COMBINE_TAUNT5 npc/combine_soldier/(v10) clik (t30 e75) uhh, we got heavy fire here click_off {Len 2.05}
+
+// Charge
+COMBINE_CHARGE0 npc/combine_soldier/(v30) clik go! click_off(p120) {Len 0.91}
+//COMBINE_CHARGE1 npc/combine_soldier/clik(p110) (t40) move!(e75) in! click_off {Len 0.84}
+//COMBINE_CHARGE2 npc/combine_soldier/(v10) clik (t40) go! recon! click_off(p120) {Len 1.21}
+//COMBINE_CHARGE3 npc/combine_soldier/clik lets! go! click_off(p120) {Len 1.37}
+
+// Idle
+COMBINE_IDLE0 npc/combine_soldier/(v30) gr_idle1 {Len 2.97}
+//COMBINE_IDLE1 npc/combine_soldier/gr_idle2 {Len 2.50}
+//COMBINE_IDLE2 npc/combine_soldier/gr_idle3 {Len 2.50}
+
+
+COMBINE_QUEST0 npc/combine_soldier/(v30) clik (t20) maintain lookout click_off(p120) {Len 1.56}
+//COMBINE_QUEST1 npc/combine_soldier/clik (t30) radio(e75) check, over click_off(p120) {Len 1.65}
+//COMBINE_QUEST2 npc/combine_soldier/(v10) clik (t25) stay(e80) alert people click_off(p120) {Len 1.83}
+//COMBINE_QUEST3 npc/combine_soldier/clik(p110) (t30) squad, quiet(e75) down click_off(p120) {Len 1.92}
+//COMBINE_QUEST4 npc/combine_soldier/clik(p120) (t30) hold position, click_off {Len 1.58}
+//COMBINE_QUEST5 npc/combine_soldier/clik(p120) (t30) sweep(e80) that sector, click_off(p120) click_off(p120) {Len 1.85}
+//COMBINE_QUEST6 npc/combine_soldier/clik(p120) (t30) uhh, go tango sweep formation click_off(p120) click_off(p120) {Len 3.12}
+//COMBINE_QUEST7 npc/combine_soldier/clik(p120) (t30) echo(e75) mission is go click_off(p120) click_off(p120) {Len 2.05}
+//COMBINE_QUEST8 npc/combine_soldier/clik(p110) (t30) fire(e75) team, weapons(e75) check ok click_off(p120) click_off {Len 2.72}
+//COMBINE_QUEST9 npc/combine_soldier/clik(p110) (t30) fire(e75) team, objective foxtrot niner click_off(p120) {Len 3.20}
+//COMBINE_QUEST10 npc/combine_soldier/clik (t30) ok(e75) mission, zero(e75) niner click_off {Len 2.33}
+//COMBINE_QUEST11 npc/combine_soldier/clik (t30) squad, stay(e80) alert(e80) four freeman, over click_off {Len 3.53}
+
+COMBINE_ANSWER0 npc/combine_soldier/(v30) clik(p120) (t30) affirmative click_off {Len 1.57}
+//COMBINE_ANSWER1 npc/combine_soldier/clik(p120) (t10) yessir click_off {Len 1.06}
+//COMBINE_ANSWER2 npc/combine_soldier/clik(p120) (t30) affirmative, sir click_off {Len 1.57}
+//COMBINE_ANSWER3 npc/combine_soldier/clik (t30) negative clik(p120) click_off {Len 0.94}
+//COMBINE_ANSWER4 npc/combine_soldier/clik(p105) (t30) roger click_off {Len 0.84}
+//COMBINE_ANSWER5 npc/combine_soldier/clik(p105) (t30) ok control click_off {Len 1.46}
+//COMBINE_ANSWER6 npc/combine_soldier/clik(p105) (t30) that(e75) is, uhh, affirmative click_off {Len 2.31}
+//COMBINE_ANSWER7 npc/combine_soldier/(v10) clik(p110) (t20) uhh roger(e75) that, clik(p120) click_off {Len 1.87}
+
+
+COMBINE_CLEAR0 npc/combine_soldier/(v30) clik (t30) area check click_off(p120) {Len 2.30}
+//COMBINE_CLEAR1 npc/combine_soldier/clik (t30) bravo(e75) post, clear click_off(p120) {Len 1.70}
+//COMBINE_CLEAR2 npc/combine_soldier/clik(p110) (t30) delta(e75) team, clear click_off(p120) {Len 1.62}
+//COMBINE_CLEAR3 npc/combine_soldier/clik(p110) (t40) no sign hostiles sir, over click_off(p120) {Len 2.62}
+//COMBINE_CLEAR4 npc/combine_soldier/clik (t30) no(e80) sign objective sir, over click_off(p120) {Len 2.77}
+//COMBINE_CLEAR5 npc/combine_soldier/clik (t30) no(e75) movement this level click_off(p120) {Len 1.91}
+//COMBINE_CLEAR6 npc/combine_soldier/clik(p120) (t28) sir, sector secure, over click_off(p120) click_off(p120) {Len 2.76}
+//COMBINE_CLEAR7 npc/combine_soldier/clik(p120) (t30) command(e75) post, team in position, over click_off {Len 3.13}
+//COMBINE_CLEAR8 npc/combine_soldier/clik (t30) recon, in(e75) position, all quiet click_off(p120) {Len 2.88}
+//COMBINE_CLEAR9 npc/combine_soldier/clik(p110) (t30) lookout(e90) post, all quiet, over click_off(p110) {Len 2.70}
+//COMBINE_CLEAR10 npc/combine_soldier/clik (t40) sir, I(e80) here(e75) something click_off {Len 1.72}
+//COMBINE_CLEAR11 npc/combine_soldier/clik(p120) (t30) sir, uhh, zero movement, over click_off {Len 3.20}
+//COMBINE_CLEAR12 npc/combine_soldier/(v10) clik(p130) (t30) all(e75) clear sir, click_off {Len 1.65}
+
+COMBINE_CHECK0 npc/combine_soldier/(v30) clik (t30) check(e75) in click_off {Len 1.63}
+//COMBINE_CHECK1 npc/combine_soldier/clik(p110) (t30) squad, are(e80) hostiles clear click_off(p120) {Len 2.72}
+//COMBINE_CHECK2 npc/combine_soldier/clik (t30) check(e80) in people click_off {Len 1.40}
+//COMBINE_CHECK3 npc/combine_soldier/clik (t30) lookout, check(e75) in click_off(p110) {Len 1.53}
+//COMBINE_CHECK4 npc/combine_soldier/clik (t30) recon(e90) team, check(e80) in click_off {Len 2.09}
+//COMBINE_CHECK5 npc/combine_soldier/clik(p130) (t30) movement check, over click_off {Len 1.80}
+//COMBINE_CHECK6 npc/combine_soldier/clik (t30) check your zone, over, click_off {Len 2.43}
+//COMBINE_CHECK7 npc/combine_soldier/clik (t30) everything(e85) ok(e75) there, click_off(p130) {Len 1.66}
+
+//SCENE SECTION
+
+
+//CACHE
+ALYX_CACHE1 temp/alyx/cache {Len 14.92}
+
+//SKYSCRAPER
+
+ALYX_SKY_HURT1A temp/alyx/alsky1 {Len 0.00}
+ALYX_SKY_HURT1B temp/alyx/alsky2 {Len 0.00}
+ALYX_SKY_HURT1C temp/alyx/alsky3 {Len 0.00}
+ALYX_SKY_HURT1D temp/alyx/alsky4 {Len 0.00}
+
+SKY_DROP1 vo/sky/sky_drop1 {Len 6.56}
+
+1SKY_SOL1 vo/sky/1sky_sol1 {Len 2.71}
+2SKY_SOL2 vo/sky/2sky_sol2 {Len 2.71}
+3SKY_SOL1 vo/sky/3sky_sol1 {Len 3.99}
+4SKY_SOL2 vo/sky/4sky_sol2 {Len 2.29}
+5SKY_SOL1 vo/sky/5sky_sol1 {Len 1.84}
+6SKY_SOL2 vo/sky/6sky_sol2 {Len 4.04}
+7SKY_SOL1 vo/sky/7sky_sol1 {Len 4.27}
+8SKY_SOL2 vo/sky/8sky_sol2 {Len 2.94}
+9SKY_SOL1 vo/sky/9sky_sol1 {Len 3.21}
+10SKY_SOL2 vo/sky/10sky_sol2 {Len 2.62}
+11SKY_SOL1 vo/sky/11sky_sol1 {Len 14.37}
+12SKY_SOL2 vo/sky/12sky_sol2 {Len 5.69}
+13SKY_SOL1 vo/sky/13sky_sol1 {Len 1.15}
+14SKY_SOL2 vo/sky/14sky_sol2 {Len 11.75}
+15SKY_SOL1 vo/sky/15sky_sol1 {Len 3.76}
+16SKY_SOL2 vo/sky/16sky_sol2 {Len 9.00}
+17SKY_SOL1 vo/sky/17sky_sol1 {Len 2.71}
+//18SKY_SOL2 vo/sky/18sky_sol2 {Len 9.36}
+//19SKY_SOL1 vo/sky/19sky_sol1 {Len 3.49}
+22SKY_SOL2 vo/sky/22sky_sol2 {Len 0.64}
+//23SKY_SOL1 vo/sky/23sky_sol1 {Len 1.01}
+23ASKY_SOL1 vo/sky/23skya_sol1 {Len 0.00}
+//24SKY_SOL2 vo/sky/24sky_sol2 {Len 0.64}
+25SKY_SOL1 vo/sky/25sky_sol1 {Len 0.64}
+26SKY_SOL1 vo/sky/26sky_sol1 {Len 2.66}
+27SKY_SOL2 vo/sky/27sky_sol2 {Len 1.24}
+28SKY_SOL1 vo/sky/28sky_sol1 {Len 0.50}
+
+
+//TEMP VERSION OF SKYSCRAPER SCENE (DUPLICATES COMMENTED OUT IN SEQUENCE ABOVE)
+SKY_TEMP vo/sky/sky_temp {Len 21.20}
+18SKY_SOL2 vo/sky/18sky_sol2t {Len 3.03}
+19SKY_SOL1 vo/sky/19sky_sol1t {Len 1.56}
+23SKY_SOL1 vo/sky/23sky_sol1t {Len 1.42}
+24SKY_SOL2 vo/sky/24sky_sol2t {Len 0.83}
+
+
+
+
+//CITADEL
+ALYX_CIT_BITCH temp/alyx/citadel1 {Len 2.52}
+ALYX_CIT_YOUKNOW temp/alyx/citadel2 {Len 3.58}
+ALYX_CIT_CONSUL temp/alyx/citadel3 {Len 11.24}
+
+
+//CYCLER TEST
+ELI_TEST0 temp/eli/maxwell1B1lwv {Len 7.69}
+ELI_TEST1 temp/eli/maxwell1B2lwv {Len 5.47}
+ELI_TEST2 temp/eli/maxwell1B3lwv {Len 10.85}
+ELI_TEST3 temp/eli/maxwell1B4lwv {Len 7.00}
+
+ALYX_TEST0 temp/alyx/misc2 {Len 2.21}
+ALYX_TEST1 temp/alyx/misc3 {Len 1.98}
+ALYX_TEST2 temp/alyx/misc4 {Len 1.27}
+ALYX_TEST3 temp/alyx/misc5 {Len 0.77}
+ALYX_TEST4 temp/alyx/misc6 {Len 0.79}
+ALYX_TEST5 temp/alyx/misc8 {Len 0.57}
+ALYX_TEST6 temp/alyx/misc16 {Len 0.84}
+ALYX_TEST7 temp/alyx/misc20 {Len 1.10}
+
+BARNEY_TEST0 barney/ba_buttuglylwv {Len 2.09}
+BARNEY_TEST1 barney/c1a2_ba_toplwv {Len 4.32}
+BARNEY_TEST2 barney/c2a1_ba_hub2alwv {Len 4.02}
+BARNEY_TEST3 barney/c3a2_ba_6survlwv {Len 4.07}
+BARNEY_TEST4 barney/hellonicesuitlwv {Len 0.40}
+BARNEY_TEST5 barney/heybuddylwv {Len 0.53}
+BARNEY_TEST6 barney/Imdeadlwv {Len 3.90}
+BARNEY_TEST7 barney/justdontknowlwv {Len 0.99}
+BARNEY_TEST8 barney/maybelwv {Len 0.47}
+BARNEY_TEST9 barney/nopelwv {Len 0.35}
+BARNEY_TEST10 barney/seeyalwv {Len 0.61}
+BARNEY_TEST11 barney/targetpracticelwv {Len 3.26}
+BARNEY_TEST12 barney/whatsgoingonlwv {Len 2.01}
+BARNEY_TEST13 barney/youneedmediclwv {Len 2.09}
+
+GMAN_TEST0 temp/gman/gman_choose2lwv {Len 1.59}
+GMAN_TEST1 temp/gman/gman_wiselwv {Len 5.11}
+GMAN_TEST2 temp/gman/gman_noreglwv {Len 2.67}
+GMAN_TEST3 temp/gman/gman_noworklwv {Len 3.35}
+
+VORT_TEST0 npc/vort/speech/wait00.wav {Len 2.66}
+VORT_TEST1 npc/vort/speech/wait01.wav {Len 3.26}
+VORT_TEST2 npc/vort/speech/wait02.wav {Len 1.51}
+VORT_TEST3 npc/vort/speech/wait03.wav {Len 2.66}
+VORT_TEST4 npc/vort/speech/wait04.wav {Len 2.25}
+VORT_TEST5 npc/vort/speech/wait05.wav {Len 2.75}
+
+//TALK PRACTICE
+
+SPEECHTEST0 temp/alyx/alsky {Len 15.53}
+SPEECHTEST1 temp/alyx/alsky1 {Len 0.00}
+SPEECHTEST2 temp/alyx/alsky2 {Len 0.00}
+SPEECHTEST3 temp/alyx/alsky3 {Len 0.00}
+SPEECHTEST4 temp/alyx/alsky4 {Len 0.00}
+
+//OLD HAZARD COURSE TEST -- DELETE FROM FINAL
+
+//If you use Barney in Hazard Course
+BA_HAZ_OK0 temp/hl1hazaudio/oldhaz_barney/tr_ba_use {Len 1.16}
+
+//If you unuse Barney in Hazard Course
+BA_HAZ_WAIT0 temp/hl1hazaudio/oldhaz_barney/tr_ba_unuse {Len 1.07}
+
+//Barney in Hazard Course
+BA_LIGHTSON temp/hl1hazaudio/oldhaz_barney/tr_ba_lightson {Len 1.88}
+BA_FLY temp/hl1hazaudio/oldhaz_barney/tr_ba_superfly {Len 10.28}
+
+
+
+//If you use Scientists in Hazard Course
+SC_HAZ_OK0 temp/hl1hazaudio/oldhaz_sci/tr_sci_use {Len 2.34}
+
+//If you unuse Scientists in Hazard Course
+SC_HAZ_WAIT0 temp/hl1hazaudio/oldhaz_sci/tr_sci_unuse {Len 1.71}
+
+//Scientists in Hazard Course
+SC_GOODWORK temp/hl1hazaudio/oldhaz_sci/tr_sci_goodwork {Len 5.03}
+SC_HARDLYNOTICE temp/hl1hazaudio/oldhaz_sci/tr_sci_hardlynoticed {Len 4.44}
+SC_NEXTSTATION temp/hl1hazaudio/oldhaz_sci/tr_sci_nextstation {Len 3.36}
+
+
+//HOLOGRAM
+
+HOLO_3JUMPS temp/hl1hazaudio/oldhaz_holo/tr_holo_3jumps {Len 12.57}
+HOLO_BREAKBOX temp/hl1hazaudio/oldhaz_holo/tr_holo_breakbox {Len 9.50}
+HOLO_BREATH temp/hl1hazaudio/oldhaz_holo/tr_holo_breath {Len 10.90}
+HOLO_BUTTON temp/hl1hazaudio/oldhaz_holo/tr_holo_button {Len 5.52}
+HOLO_CHARGER temp/hl1hazaudio/oldhaz_holo/tr_holo_charger {Len 17.41}
+HOLO_COMMENCING temp/hl1hazaudio/oldhaz_holo/tr_holo_commencing {Len 5.12}
+HOLO_CONGRATS temp/hl1hazaudio/oldhaz_holo/tr_holo_congrats {Len 5.86}
+HOLO_DONE temp/hl1hazaudio/oldhaz_holo/tr_holo_done {Len 9.08}
+HOLO_DROWN temp/hl1hazaudio/oldhaz_holo/tr_holo_drown {Len 15.16}
+HOLO_DUCK temp/hl1hazaudio/oldhaz_holo/tr_holo_duck {Len 9.70}
+HOLO_FALLSHORT temp/hl1hazaudio/oldhaz_holo/tr_holo_fallshort {Len 3.54}
+HOLO_FANTASTIC temp/hl1hazaudio/oldhaz_holo/tr_holo_fantastic {Len 1.02}
+HOLO_FLASHLIGHT temp/hl1hazaudio/oldhaz_holo/tr_holo_flashlight {Len 2.72}
+HOLO_GREATWORK temp/hl1hazaudio/oldhaz_holo/tr_holo_greatwork {Len 4.32}
+HOLO_GRENADE temp/hl1hazaudio/oldhaz_holo/tr_holo_grenade {Len 7.10}
+HOLO_HITALL temp/hl1hazaudio/oldhaz_holo/tr_holo_hitall {Len 13.59}
+HOLO_INJURY temp/hl1hazaudio/oldhaz_holo/tr_holo_injury {Len 1.88}
+HOLO_INTRO temp/hl1hazaudio/oldhaz_holo/tr_holo_intro {Len 14.11}
+HOLO_JDUCK temp/hl1hazaudio/oldhaz_holo/tr_holo_jduck {Len 10.96}
+HOLO_JUMP temp/hl1hazaudio/oldhaz_holo/tr_holo_jump {Len 15.23}
+HOLO_JUMPDOWN temp/hl1hazaudio/oldhaz_holo/tr_holo_jumpdown {Len 12.59}
+HOLO_JUMPGAP temp/hl1hazaudio/oldhaz_holo/tr_holo_jumpgap {Len 7.57}
+HOLO_KEEPTRYING temp/hl1hazaudio/oldhaz_holo/tr_holo_keeptrying {Len 1.65}
+HOLO_LADDER temp/hl1hazaudio/oldhaz_holo/tr_holo_ladder {Len 7.75}
+HOLO_LEADGUARD temp/hl1hazaudio/oldhaz_holo/tr_holo_leadguard {Len 12.61}
+HOLO_LIGHTOFF temp/hl1hazaudio/oldhaz_holo/tr_holo_lightoff {Len 5.11}
+HOLO_LONGJUMP temp/hl1hazaudio/oldhaz_holo/tr_holo_longjump {Len 14.38}
+HOLO_MEDKIT temp/hl1hazaudio/oldhaz_holo/tr_holo_medkit {Len 18.01}
+HOLO_MOVE temp/hl1hazaudio/oldhaz_holo/tr_holo_move {Len 14.04}
+HOLO_NICEJOB temp/hl1hazaudio/oldhaz_holo/tr_holo_nicejob {Len 0.92}
+HOLO_PIPEDUCK temp/hl1hazaudio/oldhaz_holo/tr_holo_pipeduck {Len 16.59}
+HOLO_PULLBOX temp/hl1hazaudio/oldhaz_holo/tr_holo_pullbox {Len 14.68}
+HOLO_PUSHBOX temp/hl1hazaudio/oldhaz_holo/tr_holo_pushbox {Len 9.44}
+HOLO_RADIATION temp/hl1hazaudio/oldhaz_holo/tr_holo_radiation {Len 8.51}
+HOLO_RETRY temp/hl1hazaudio/oldhaz_holo/tr_holo_retry {Len 6.01}
+HOLO_RUNSTART temp/hl1hazaudio/oldhaz_holo/tr_holo_runstart {Len 1.84}
+HOLO_SPINBRIDGE temp/hl1hazaudio/oldhaz_holo/tr_holo_spinbridge {Len 4.36}
+HOLO_STARTLIFT temp/hl1hazaudio/oldhaz_holo/tr_holo_startlift {Len 5.04}
+HOLO_STEAM temp/hl1hazaudio/oldhaz_holo/tr_holo_steam {Len 10.18}
+HOLO_TARGET temp/hl1hazaudio/oldhaz_holo/tr_holo_target {Len 11.97}
+HOLO_TRYAGAIN temp/hl1hazaudio/oldhaz_holo/tr_holo_tryagain {Len 1.84}
+HOLO_USETRAIN temp/hl1hazaudio/oldhaz_holo/tr_holo_usetrain {Len 11.80}
+

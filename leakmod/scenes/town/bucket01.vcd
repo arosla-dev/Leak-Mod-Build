@@ -1,0 +1,44 @@
+// Choreo version 1
+actor "monk"
+{
+  channel "speech"
+  {
+    event speak "01"
+    {
+      time 0.186667 4.412699
+      param "town.monk_bucket01"
+      fixedlength
+    }
+    event speak "02"
+    {
+      time 5.153334 8.404127
+      param "town.monk_bucket02"
+      fixedlength
+    }
+  }
+  channel "facing"
+  {
+    event lookat "look at the player"
+    {
+      time -0.006666 8.666667
+      param "!player"
+      event_ramp
+      {
+        0.1666 1.0000
+        6.7590 1.0000
+        7.9514 1.0000
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

@@ -1,0 +1,43 @@
+"NPC_CombineGuard.FootstepLeft"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"95, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/combine_guard/step1.wav"
+}
+
+"NPC_CombineGuard.FootstepRight"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"95, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/combine_guard/step2.wav"
+}
+
+"NPC_CombineGuard.Fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/cguard/cguard_fire.wav"
+}
+
+"NPC_CombineGuard.Charging"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/cguard/charging.wav"
+}

@@ -1,0 +1,89 @@
+// Choreo version 1
+actor "Breen"
+{
+  channel "audio"
+  {
+    event speak "tofreeman01"
+    {
+      time 0.193334 3.102223
+      param "breencast.br_tofreeman01"
+      fixedlength
+    }
+    event speak "tofreeman02"
+    {
+      time 3.606667 5.746599
+      param "breencast.br_tofreeman02"
+      fixedlength
+    }
+    event speak "tofreeman03"
+    {
+      time 6.106666 13.124966
+      param "breencast.br_tofreeman03"
+      fixedlength
+    }
+    event speak "tofreeman04"
+    {
+      time 13.379999 18.955782
+      param "breencast.br_tofreeman04"
+      fixedlength
+    }
+    event speak "tofreeman05"
+    {
+      time 19.199999 29.827436
+      param "breencast.br_tofreeman05"
+      fixedlength
+    }
+    event speak "tofreeman06"
+    {
+      time 30.280003 33.006195
+      param "breencast.br_tofreeman06"
+      fixedlength
+    }
+    event speak "tofreeman07"
+    {
+      time 33.493332 38.264282
+      param "breencast.br_tofreeman07"
+      fixedlength
+    }
+    event speak "tofreeman08"
+    {
+      time 38.606667 46.647461
+      param "breencast.br_tofreeman08"
+      fixedlength
+    }
+    event speak "tofreeman09"
+    {
+      time 47.619999 52.216484
+      param "breencast.br_tofreeman09"
+      fixedlength
+    }
+    event speak "tofreeman10"
+    {
+      time 52.586666 57.029343
+      param "breencast.br_tofreeman10"
+      fixedlength
+    }
+    event speak "tofreeman11"
+    {
+      time 57.706665 59.385258
+      param "breencast.br_tofreeman11"
+      fixedlength
+    }
+    event speak "tofreeman12"
+    {
+      time 60.039997 61.469227
+      param "breencast.br_tofreeman12"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "move to"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\breen.mdl"
+}
+
+fps 60
+snap off

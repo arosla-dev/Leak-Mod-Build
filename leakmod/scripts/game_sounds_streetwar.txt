@@ -1,0 +1,531 @@
+//*********************************************************
+// Streetwar scenes
+
+
+"streetwar.al_thedeal"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_thedeal.wav"
+}
+
+"streetwar.al_bridge01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_bridge01.wav"
+}
+
+"streetwar.al_bridge02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_bridge02.wav"
+}
+
+"streetwar.al_coupleminutes"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_coupleminutes.wav"
+}
+
+"streetwar.al_goodletsgo"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_goodletsgo.wav"
+}
+
+"streetwar.al_heregoes"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_heregoes.wav"
+}
+
+"streetwar.al_theysawus"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_theysawus.wav"
+}
+
+"streetwar.al_hurry"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_hurry.wav"
+}
+
+"streetwar.al_standardpanel"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_standardpanel.wav"
+}
+
+"streetwar.al_nottoolong"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_nottoolong.wav"
+}
+
+"streetwar.al_damn"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_damn.wav"
+}
+
+"streetwar.al_cmoncmon"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_cmoncmon.wav"
+}
+
+"streetwar.al_thatsit"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_thatsit.wav"
+}
+
+"streetwar.al_firstbit"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_firstbit.wav"
+}
+
+"streetwar.al_nowtricky"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_nowtricky.wav"
+}
+
+"streetwar.al_almostdone"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_almostdone.wav"
+}
+
+"streetwar.al_onemorebit"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_onemorebit.wav"
+}
+
+"streetwar.al_there"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_there.wav"
+}
+
+"streetwar.al_coverme01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_coverme01.wav"
+}
+
+"streetwar.al_coverme02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_coverme02.wav"
+}
+
+"streetwar.al_okthatsit"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_okthatsit.wav"
+}
+
+"streetwar.al_go"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_go.wav"
+}
+
+"streetwar.al_thatwasclose"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_thatwasclose.wav"
+}
+
+"streetwar.al_phew"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_phew.wav"
+}
+
+"streetwar.al_cmon"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_cmon.wav"
+}
+
+"streetwar.al_getthrough"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_getthrough.wav"
+}
+
+"streetwar.al_hurrygordon"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_hurrygordon.wav"
+}
+
+"streetwar.al_getoverhere"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_getoverhere.wav"
+}
+
+"streetwar.al_gordonhurryup"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_gordonhurryup.wav"
+}
+
+"streetwar.al_thankgod"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_thankgod.wav"
+}
+
+"streetwar.al_iwasafraid"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_iwasafraid.wav"
+}
+
+"streetwar.al_okgetgoing"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_okgetgoing.wav"
+}
+
+"streetwar.al_theresbridge01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_theresbridge01.wav"
+}
+
+"streetwar.al_theresbridge02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_theresbridge02.wav"
+}
+
+"streetwar.al_no"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_no.wav"
+}
+
+"streetwar.al_thebridge"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_thebridge.wav"
+}
+
+"streetwar.al_whatnow01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_whatnow01.wav"
+}
+
+"streetwar.al_whatnow02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_whatnow02.wav"
+}
+
+"streetwar.al_goingthru01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_goingthru01.wav"
+}
+
+"streetwar.al_goingthru02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_goingthru02.wav"
+}
+
+"streetwar.al_onewill01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_onewill01.wav"
+}
+
+"streetwar.al_onewill02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_onewill02.wav"
+}
+
+"streetwar.al_keepmoving"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_keepmoving.wav"
+}
+
+"streetwar.al_letsgetmoving"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_letsgetmoving.wav"
+}
+
+"streetwar.al_overhere01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_overhere01.wav"
+}
+
+"streetwar.al_overhere02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_overhere02.wav"
+}
+
+"streetwar.al_comeon"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_comeon.wav"
+}
+
+"streetwar.al_followme"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_TALKING"
+
+	"wave"			"vo/Streetwar/Alyx_gate/al_followme.wav"
+}

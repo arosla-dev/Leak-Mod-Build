@@ -1,0 +1,750 @@
+//*********************************************************
+// Citadel
+
+"citadel.br_freemanatlast01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_freemanatlast01.wav"
+}
+
+
+"citadel.br_freemanatlast02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_freemanatlast02.wav"
+}
+
+"citadel.br_freemanatlast03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_freemanatlast03.wav"
+}
+
+"citadel.br_freemanatlast04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_freemanatlast04.wav"
+}
+
+"citadel.br_missvance01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_missvance01.wav"
+}
+
+"citadel.br_missvance02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_missvance02.wav"
+}
+
+"citadel.br_missvance03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_missvance03.wav"
+}
+
+"citadel.br_missvance04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_missvance04.wav"
+}
+
+"citadel.br_missvance05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_missvance05.wav"
+}
+
+"citadel.br_missvance06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_missvance06.wav"
+}
+
+"citadel.eli_dontstruggle"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_dontstruggle.wav"
+}
+
+"citadel.mo_makeeasy"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_makeeasy.wav"
+}
+
+"citadel.eli_donttalk"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_donttalk.wav"
+}
+
+"citadel.br_intractable01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_intractable01.wav"
+}
+
+"citadel.br_intractable02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_intractable02.wav"
+}
+
+"citadel.br_intractable03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_intractable03.wav"
+}
+
+"citadel.br_intractable04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_intractable04.wav"
+}
+
+"citadel.eli_worship"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_worship.wav"
+}
+
+"citadel.br_wontcompromise01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_wontcompromise01.wav"
+}
+
+"citadel.br_wontcompromise02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_wontcompromise02.wav"
+}
+
+"citadel.mo_veryhard"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_veryhard.wav"
+}
+
+"citadel.br_youlldofine01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine01.wav"
+}
+
+"citadel.br_youlldofine02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine02.wav"
+}
+
+"citadel.br_youlldofine03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine03.wav"
+}
+
+"citadel.br_youlldofine04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine04.wav"
+}
+
+"citadel.br_youlldofine05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine05.wav"
+}
+
+"citadel.br_youlldofine06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine06.wav"
+}
+
+"citadel.br_youlldofine07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youlldofine07.wav"
+}
+
+"citadel.eli_notobreen"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_notobreen.wav"
+}
+
+"citadel.eli_notobreen02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_notobreen02.wav"
+}
+
+"citadel.br_reconsider01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_reconsider01.wav"
+}
+
+"citadel.br_reconsider02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_reconsider02.wav"
+}
+
+"citadel.br_reconsider03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_reconsider03.wav"
+}
+
+"citadel.br_reconsider04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_reconsider04.wav"
+}
+
+"citadel.br_reconsider05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_reconsider05.wav"
+}
+
+"citadel.br_reconsider06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_reconsider06.wav"
+}
+
+"citadel.mo_grasp"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_grasp.wav"
+}
+
+"citadel.eli_enslave"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_enslave.wav"
+}
+
+"citadel.br_oheli01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli01.wav"
+}
+
+"citadel.br_oheli02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli02.wav"
+}
+
+"citadel.br_oheli03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli03.wav"
+}
+
+"citadel.br_oheli04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli04.wav"
+}
+
+"citadel.br_oheli05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli05.wav"
+}
+
+"citadel.br_oheli06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli06.wav"
+}
+
+"citadel.br_oheli07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli07.wav"
+}
+
+"citadel.br_oheli08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli08.wav"
+}
+
+"citadel.br_oheli09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_oheli09.wav"
+}
+
+"citadel.eli_genocide"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_genocide.wav"
+}
+
+"citadel.eli_genocide01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_genocide01.wav"
+}
+
+"citadel.eli_genocide02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_genocide02.wav"
+}
+
+"citadel.eli_genocide03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_genocide03.wav"
+}
+
+"citadel.eli_genocide04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_genocide04.wav"
+}
+
+"citadel.br_unfortunatedays01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_unfortunatedays01.wav"
+}
+
+"citadel.br_unfortunatedays02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_unfortunatedays02.wav"
+}
+
+"citadel.mo_chooselife"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_chooselife.wav"
+}
+
+"citadel.br_elichoice01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_elichoice01.wav"
+}
+
+"citadel.br_elichoice02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_elichoice02.wav"
+}
+
+"citadel.br_elichoice03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_elichoice03.wav"
+}
+
+"citadel.mo_necessary"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_necessary.wav"
+}
+
+"citadel.br_redemption01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_redemption01.wav"
+}
+
+"citadel.br_redemption02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_redemption02.wav"
+}
+
+"citadel.br_redemption03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_redemption03.wav"
+}
+
+"citadel.mo_what"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_what.wav"
+}
+
+"citadel.br_takeit"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_takeit.wav"
+}
+
+"citadel.mo_treasure"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_treasure.wav"
+}
+
+"citadel.mo_treasure02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_treasure02.wav"
+}
+
+"citadel.eli_falsehope"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_falsehope.wav"
+}
+
+"citadel.eli_falsehope02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/eli_falsehope02.wav"
+}
+
+"citadel.br_stubborn"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_stubborn.wav"
+}
+
+"citadel.mo_executioner"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_executioner.wav"
+}
+
+"citadel.br_madepoint01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint01.wav"
+}
+
+"citadel.br_madepoint02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint02.wav"
+}
+
+"citadel.br_madepoint03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint03.wav"
+}
+
+"citadel.br_madepoint04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint04.wav"
+}
+
+"citadel.br_madepoint05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint05.wav"
+}
+
+"citadel.br_madepoint06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint06.wav"
+}
+
+"citadel.br_madepoint07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint07.wav"
+}
+
+"citadel.br_madepoint08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_madepoint08.wav"
+}
+
+"citadel.br_youfool"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/br_youfool.wav"
+}
+
+"citadel.mo_partofthis"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/citadel/mo_partofthis.wav"
+}
+
+"citadel_old.alyx1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/citadel1.wav"
+}
+
+"citadel_old.alyx2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/citadel2.wav"
+}
+
+"citadel_old.alyx3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/citadel3.wav"
+}

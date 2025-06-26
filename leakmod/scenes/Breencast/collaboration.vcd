@@ -1,0 +1,83 @@
+// Choreo version 1
+actor "Breen"
+{
+  channel "audio"
+  {
+    event speak "collaboration01"
+    {
+      time 0.193334 7.803742
+      param "breencast.br_collaboration01"
+      fixedlength
+    }
+    event speak "collaboration02"
+    {
+      time 8.453342 12.549419
+      param "breencast.br_collaboration02"
+      fixedlength
+    }
+    event speak "collaboration03"
+    {
+      time 13.100014 21.246067
+      param "breencast.br_collaboration03"
+      fixedlength
+    }
+    event speak "collaboration04"
+    {
+      time 22.013348 25.394594
+      param "breencast.br_collaboration04"
+      fixedlength
+    }
+    event speak "collaboration05"
+    {
+      time 25.653347 37.826023
+      param "breencast.br_collaboration05"
+      fixedlength
+    }
+    event speak "collaboration06"
+    {
+      time 38.406681 40.649494
+      param "breencast.br_collaboration06"
+      fixedlength
+    }
+    event speak "collaboration07"
+    {
+      time 41.600014 54.574459
+      param "breencast.br_collaboration07"
+      fixedlength
+    }
+    event speak "collaboration08"
+    {
+      time 55.146683 69.506935
+      param "breencast.br_collaboration08"
+      fixedlength
+    }
+    event speak "collaboration09"
+    {
+      time 69.773354 75.864105
+      param "breencast.br_collaboration09"
+      fixedlength
+    }
+    event speak "collaboration10"
+    {
+      time 76.580009 86.359940
+      param "breencast.br_collaboration10"
+      fixedlength
+    }
+    event speak "collaboration11"
+    {
+      time 86.513344 88.931870
+      param "breencast.br_collaboration11"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "move to"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\breen.mdl"
+}
+
+fps 60
+snap off

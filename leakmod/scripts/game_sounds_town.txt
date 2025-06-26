@@ -1,0 +1,589 @@
+//*********************************************************
+// Town
+
+
+"town.monk_allover"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_allover.wav"
+}
+
+"town.monk_bettergun"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_bettergun.wav"
+}
+
+"town.monk_catch"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_catch.wav"
+}
+
+"town.monk_closer"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_closer.wav"
+}
+
+"town.monk_gunquick"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_gunquick.wav"
+}
+
+"town.monk_hurry"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_hurry.wav"
+}
+
+"town.monk_hush"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_hush.wav"
+}
+
+"town.monk_keepitclose"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_keepitclose.wav"
+}
+
+"town.monk_keepoutstreet"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_keepoutstreet.wav"
+}
+
+"town.monk_moveon"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_moveon.wav"
+}
+
+"town.monk_overhere"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_overhere.wav"
+}
+
+"town.monk_partner"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_partner.wav"
+}
+
+"town.monk_run"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_run.wav"
+}
+
+"town.monk_sothere"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_sothere.wav"
+}
+
+"town.monk_stirredup"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_stirredup.wav"
+}
+
+"town.monk_takethis"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_takethis.wav"
+}
+
+"town.monk_theycome"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_theycome.wav"
+}
+
+
+"town.monk_tochurch"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_tochurch.wav"
+}
+
+"town.monk_toomany"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_toomany.wav"
+}
+
+"town.monk_verygoodbro"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/monk/monk_verygoodbro.wav"
+}
+
+"town.monk_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_01.wav"
+}
+
+"town.monk_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_02.wav"
+}
+
+"town.monk_03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_03.wav"
+}
+
+"town.monk_04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_04.wav"
+}
+
+"town.monk_05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_05.wav"
+}
+
+"town.monk_06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_06.wav"
+}
+
+"town.monk_07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_07.wav"
+}
+
+"town.monk_08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_08.wav"
+}
+
+"town.monk_balc01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc01.wav"
+}
+
+"town.monk_balc02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc02.wav"
+}
+
+"town.monk_balc03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc03.wav"
+}
+
+"town.monk_balc03a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc03a.wav"
+}
+
+"town.monk_balc03b"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc03b.wav"
+}
+
+"town.monk_balc04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc04.wav"
+}
+
+"town.monk_balc05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc05.wav"
+}
+
+"town.monk_balc06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc06.wav"
+}
+
+"town.monk_balc07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc07.wav"
+}
+
+"town.monk_balc08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc08.wav"
+}
+
+"town.monk_balc09"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc09.wav"
+}
+
+"town.monk_balc10"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc10.wav"
+}
+
+"town.monk_balc11"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc11.wav"
+}
+
+"town.monk_balc12"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc12.wav"
+}
+
+"town.monk_balc13"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_balc13.wav"
+}
+
+"town.monk_bucket01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_bucket01.wav"
+}
+
+"town.monk_bucket02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_bucket02.wav"
+}
+
+"town.monk_curse01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_curse01.wav"
+}
+
+"town.monk_evil"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_evil.wav"
+}
+
+"town.monk_fire01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_fire01.wav"
+}
+
+"town.monk_fire02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_fire02.wav"
+}
+
+"town.monk_fire03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_fire03.wav"
+}
+
+"town.monk_greet01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet01.wav"
+}
+
+"town.monk_greet02a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet02a.wav"
+}
+
+"town.monk_greet02b"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet02b.wav"
+}
+
+"town.monk_greet03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet03.wav"
+}
+
+"town.monk_greet04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet04.wav"
+}
+
+"town.monk_greet05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet05.wav"
+}
+
+"town.monk_greet06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet06.wav"
+}
+
+"town.monk_greet07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_greet07.wav"
+}
+
+"town.monk_savior"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_savior.wav"
+}
+
+"town.monk_stake"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_stake.wav"
+}
+
+"town.monk_wrong01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_wrong01.wav"
+}
+
+"town.monk_wrong02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_wrong02.wav"
+}
+
+"town.monk_yard01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_yard01.wav"
+}
+
+"town.monk_yard02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_yard02.wav"
+}
+
+"town.monk_yard03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/obsolete_monk/monk_yard03.wav"
+}

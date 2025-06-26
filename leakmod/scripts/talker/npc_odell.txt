@@ -1,0 +1,37 @@
+response "OdellLeadComingBack" sentence "OD_STAYPUT" odds 25
+response "OdellLeadCatchUp" sentence "OD_CATCHUP" odds 50
+response "OdellLeadArrival" scene "scenes/borealis/odell_06.vcd" speakonce
+response "OdellLeadSuccess" scene "scenes/borealis/odell_18.vcd"
+
+// Match criteria for odell
+criterion "IsOdell" "classname" "npc_odell" required
+
+criterion "OdellLeadComingBack" "concept" "CONCEPT_LEAD_COMING_BACK" required
+criterion "OdellLeadCatchUp" "concept" "CONCEPT_LEAD_CATCHUP" required
+criterion "OdellLeadArrival" "concept" "CONCEPT_LEAD_ARRIVAL" required
+criterion "OdellLeadSuccess" "concept" "CONCEPT_LEAD_SUCCESS" required
+
+
+
+rule "OdellLeadComingBack"
+{
+	criteria IsOdell OdellLeadComingBack
+	response OdellLeadComingBack
+}
+rule "OdellLeadCatchUp"
+{
+	criteria IsOdell OdellLeadCatchUp
+	response OdellLeadCatchUp
+}
+rule "OdellLeadArrival"
+{
+	criteria IsOdell OdellLeadArrival
+	response OdellLeadArrival
+}
+rule "OdellLeadSuccess"
+{
+	criteria IsOdell OdellLeadSuccess
+	response OdellLeadSuccess
+}
+
+

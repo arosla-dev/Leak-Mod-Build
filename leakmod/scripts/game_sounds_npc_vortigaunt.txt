@@ -1,0 +1,150 @@
+"NPC_Vortigaunt.SuitOn"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.850"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"items/suitchargeok1.wav"
+}
+
+"NPC_Vortigaunt.SuitCharge"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.850"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"items/suitcharge1.wav"
+}
+
+"NPC_Vortigaunt.Claw"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"100, 150"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/foot_hit.wav"
+}
+
+"NPC_Vortigaunt.FootstepLeft"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.300"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"npc/vort/vort_foot1.wav"
+		"wave"	"npc/vort/vort_foot3.wav"
+	}
+}
+
+"NPC_Vortigaunt.FootstepRight"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.300"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"npc/vort/vort_foot2.wav"
+		"wave"	"npc/vort/vort_foot4.wav"
+	}
+}
+
+"NPC_Vortigaunt.Shoot"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"130, 160"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/attack_shoot.wav"
+}
+
+"NPC_Vortigaunt.Swing"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"100, 130"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/vort/claw_swing1.wav"
+		"wave"	"npc/vort/claw_swing2.wav"
+	}
+}
+
+"NPC_Vortigaunt.Kick"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"100, 150"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/foot_hit.wav"
+}
+
+"NPC_Vortigaunt.Stomp"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"100, 150"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/foot_hit.wav"
+}
+
+"NPC_Vortigaunt.ClawBeam"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"130, 160"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/vort/attack_shoot.wav"
+}
+
+// Vortigaunt Sentences
+
+"npc_vortigaunt.boxcarvort01b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_75dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"npc/vort/speech/boxcarvort01b.wav"
+}
+
+"npc_vortigaunt.boxcarvort02b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_75dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"npc/vort/speech/boxcarvort02b.wav"
+}
+
+"npc_vortigaunt.boxcarvort03b"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_75dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"npc/vort/speech/boxcarvort03b.wav"
+}

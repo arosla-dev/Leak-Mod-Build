@@ -1,0 +1,199 @@
+response "VortigauntCure" sentence "VORT_CURE"  defaultdelay
+response "VortigauntCureStop" sentence "VORT_CURESTOP"  defaultdelay
+response "VortigauntCureInterrupt" sentence "VORT_CURE_INTERRUPT"  defaultdelay
+response "VortigauntAttack" sentence "VORT_ATTACK"  defaultdelay
+response "VortigauntMad" sentence "VORT_MAD" soundlevel "SNDLVL_NORM" delay "4"
+response "VortigauntShot" sentence "VORT_SHOT" soundlevel "SNDLVL_NORM" delay "4"
+response "VortigauntPain" sentence "VORT_PAIN"  defaultdelay
+response "VortigauntDie" sentence "VORT_DIE"  defaultdelay
+response "VortigauntKill" sentence "VORT_KILL" soundlevel "SNDLVL_NORM" delay "4"
+response "VortigauntLineOfFire" sentence "VORT_LINE_FIRE" soundlevel "SNDLVL_NORM" delay "4"
+response "VortigauntPOk" sentence "VORT_POK" soundlevel "SNDLVL_NORM" delay "2"
+
+response "VortigauntAnswer" sentence "VORT_ANSWER" defaultdelay
+response "VortigauntQuestion" sentence "VORT_QUESTION" defaultdelay
+response "VortigauntIdle" sentence "VORT_IDLE" defaultdelay
+response "VortigauntStare" sentence "VORT_STARE" delay "5,7.5"
+response "VortigauntOk" sentence "VORT_OK" defaultdelay
+response "VortigauntWait" sentence "VORT_WAIT" defaultdelay
+response "VortigauntStop" sentence "VORT_STOP" delay "2,2.5" soundlevel "SNDLVL_NORM"
+response "VortigauntScared" sentence "VORT_SCARED" delay "0,0.4"
+response "VortigauntHello" sentence "VORT_HELLO" delay "3,3.5" speakonce 
+response "VortigauntCureA" sentence "VORT_CUREA"  defaultdelay speakonce
+response "VortigauntCureB" sentence "VORT_CUREB"  defaultdelay speakonce
+response "VortigauntCureC" sentence "VORT_CUREC"  defaultdelay speakonce
+response "VortigauntPQuest" sentence "VORT_PQUEST" defaultdelay
+response "VortigauntSmell" sentence "VORT_SMELL" defaultdelay respeakdelay "60"
+response "VortigauntWound" sentence "VORT_WOUND" speakonce defaultdelay
+response "VortigauntMortal" sentence "VORT_MORTAL"  speakonce defaultdelay
+
+// Exact match
+criterion "IsVortigaunt" "classname" "npc_vortigaunt" required
+
+criterion "VortigauntCure"  concept" "VORT_CURE" required
+criterion "VortigauntCureStop" "concept" "VORT_CURESTOP" required
+criterion "VortigauntCureInterrupt" "concept" "VORT_CURE_INTERRUPT" required
+criterion "VortigauntAttack" "concept" "VORT_ATTACK" required
+criterion "VortigauntMad" "concept" "VORT_MAD" required
+criterion "VortigauntShot" "concept" "VORT_SHOT" required
+criterion "VortigauntPain" "concept" "VORT_PAIN" required
+criterion "VortigauntDie" "concept" "VORT_DIE" required
+criterion "VortigauntKill" "concept" "VORT_KILL" required
+criterion "VortigauntLineOfFire" "concept" "VORT_LINE_FIRE" required
+criterion "VortigauntPOk" "concept" "VORT_POK" required
+
+rule VortigauntCure
+{
+	criteria		IsVortigaunt  VortigauntCure
+	response		VortigauntCure
+}
+rule VortigauntCureStop
+{
+	criteria		IsVortigaunt VortigauntCureStop
+	response		VortigauntCureStop
+}
+rule VortigauntCureInterrupt
+{
+	criteria		IsVortigaunt VortigauntCureInterrupt
+	response		VortigauntCureInterrupt
+}
+rule VortigauntAttack
+{
+	criteria		IsVortigaunt VortigauntAttack
+	response		VortigauntAttack
+}
+rule VortigauntMad
+{
+	criteria		IsVortigaunt VortigauntMad
+	response		VortigauntMad
+}
+rule VortigauntShot
+{
+	criteria		IsVortigaunt VortigauntShot
+	response		VortigauntShot
+}
+rule VortigauntPain
+{
+	criteria		IsVortigaunt VortigauntPain
+	response		VortigauntPain
+}
+rule VortigauntDie
+{
+	criteria		IsVortigaunt VortigauntDie
+	response		VortigauntDie
+}
+rule VortigauntKill
+{
+	criteria		IsVortigaunt VortigauntKill
+	response		VortigauntKill
+}
+rule VortigauntLineOfFire
+{
+	criteria		IsVortigaunt VortigauntLineOfFire
+	response		VortigauntLineOfFire
+}
+rule VortigauntPOk
+{
+	criteria		IsVortigaunt VortigauntPOk
+	response		VortigauntLineOfFire
+}
+rule VortigauntTlkAnswer
+{
+	criteria		IsVortigaunt ConceptTalkAnswer
+	response		VortigauntAnswer
+}
+
+
+
+rule VortigauntTlkQuestion
+{
+	criteria		IsVortigaunt ConceptTalkQuestion
+	response		VortigauntQuestion
+}
+rule VortigauntTlkIdle
+{
+	criteria		IsVortigaunt ConceptTalkIdle
+	response		VortigauntIdle
+}
+
+rule VortigauntTlkStare
+{
+	criteria		IsVortigaunt ConceptTalkStare
+	response		VortigauntStare
+}
+
+rule VortigauntTlkUse
+{
+	criteria		IsVortigaunt ConceptTalkUse
+	response		VortigauntOk
+}
+
+rule VortigauntTlkUnUse
+{
+	criteria		IsVortigaunt ConceptTalkUnUse
+	response		VortigauntWait
+}
+
+rule VortigauntTlkStop
+{
+	criteria		IsVortigaunt ConceptTalkStop
+	response		VortigauntStop
+}
+
+rule VortigauntTlkNoShoot
+{
+	criteria		IsVortigaunt ConceptTalkNoShoot
+	response		VortigauntScared
+}
+rule VortigauntTlkHello
+{
+	criteria		IsVortigaunt ConceptTalkHello
+	response		VortigauntHello
+}
+rule VortigauntPlayerHurt1
+{
+	criteria		IsVortigaunt ConceptTalkPlayerHurt1
+	response		VortigauntCureA
+}
+rule VortigauntPlayerHurt2
+{
+	criteria		IsVortigaunt ConceptTalkPlayerHurt2
+	response		VortigauntCureB
+}
+rule VortigauntPlayerHurt3
+{
+	criteria		IsVortigaunt ConceptTalkPlayerHurt3
+	response		VortigauntCureC
+}
+
+rule VortigauntPlayerHello
+{
+	criteria		IsVortigaunt ConceptTalkPHello
+	response		NullResponse
+}
+rule VortigauntPlayerIdle
+{
+	criteria		IsVortigaunt ConceptTalkPIdle
+	response		NullResponse
+}
+rule VortigauntPlayerQuestion
+{
+	criteria		IsVortigaunt ConceptTalkPQuestion
+	response		VortigauntPQuest
+}
+
+rule VortigauntTlkSmell
+{
+	criteria		IsVortigaunt ConceptTalkSmell
+	response		VortigauntSmell
+}
+rule VortigauntTlkWound
+{
+	criteria		IsVortigaunt ConceptTalkWound
+	response		VortigauntWound
+}
+rule VortigauntTlkMortal
+{
+	criteria		IsVortigaunt ConceptTalkMortal
+	response		VortigauntMortal
+}

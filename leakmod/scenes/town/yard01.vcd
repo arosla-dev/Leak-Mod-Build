@@ -1,0 +1,55 @@
+// Choreo version 1
+actor "monk"
+{
+  channel "speech"
+  {
+    event speak "01"
+    {
+      time 0.186667 11.555737
+      param "town.monk_yard01"
+      fixedlength
+    }
+    event speak "02"
+    {
+      time 11.959999 25.799091
+      param "town.monk_yard02"
+      fixedlength
+    }
+    event speak "03"
+    {
+      time 26.180002 33.029888
+      param "town.monk_yard03"
+      fixedlength
+    }
+  }
+  channel "facing"
+  {
+    event lookat "look at the player"
+    {
+      time -0.006666 33.426670
+      param "!player"
+      event_ramp
+      {
+        0.1666 1.0000
+        31.5190 1.0000
+        32.7114 1.0000
+      }
+    }
+    event firetrigger "come"
+    {
+      time 26.760000 -1.000000
+      param "1"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off

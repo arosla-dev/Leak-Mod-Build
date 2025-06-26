@@ -1,0 +1,311 @@
+"NPC_CScanner.Gib"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_energyexplosion1.wav"
+}
+
+"NPC_CScanner.Shoot"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/cbot_discharge1.wav"
+		"wave"	"npc/scanner/cbot_discharge2.wav"
+		"wave"	"npc/scanner/cbot_discharge3.wav"
+	}
+}
+
+"NPC_CScanner.Alert"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"60, 200"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_alert1.wav"
+}
+
+"NPC_CScanner.Die"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"wave"			"npc/scanner/death1.wav"
+}
+
+"NPC_CScanner.Combat"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"60, 200"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/cbot_battletalk1.wav"
+		"wave"	"npc/scanner/cbot_battletalk2.wav"
+		"wave"	"npc/scanner/cbot_battletalk3.wav"
+		"wave"	"npc/scanner/cbot_battletalk4.wav"
+	}
+}
+
+"NPC_CScanner.Idle"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"60, 200"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/cbot_servochatter1.wav"
+		"wave"	"npc/scanner/cbot_servochatter2.wav"
+		"wave"	"npc/scanner/cbot_servochatter3.wav"
+	}
+}
+
+"NPC_CScanner.Pain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"60, 200"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_servoscared.wav"
+}
+
+"NPC_CScanner.Attention"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/spch_attention1.wav"
+		"wave"	"npc/scanner/spch_attention2.wav"
+		"wave"	"npc/scanner/spch_attention3.wav"
+	}
+}
+
+"NPC_CScanner.Scan"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/spch_scan1.wav"
+		"wave"	"npc/scanner/spch_scan2.wav"
+		"wave"	"npc/scanner/spch_scan3.wav"
+		"wave"	"npc/scanner/spch_scan4.wav"
+	}
+}
+
+"NPC_CScanner.Proceed"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/spch_proceed1.wav"
+		"wave"	"npc/scanner/spch_proceed2.wav"
+	}
+}
+
+"NPC_CScanner.Curious"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_servocurious.wav"
+}
+
+"NPC_CScanner.TakePhoto"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_mechanism1.wav"
+}
+
+"NPC_CScanner.PreFlash"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_blindcharge.wav"
+}
+
+"NPC_CScanner.PreGas"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_gaspre.wav"
+}
+
+"NPC_CScanner.AttackFlash"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_mechanism1.wav"
+}
+
+"NPC_CScanner.AttackGas"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/scanner/cbot_gashiss.wav"
+}
+
+"NPC_CScanner.DiveBomb"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/scanner/cbot_discharge1.wav"
+		"wave"	"npc/scanner/cbot_discharge2.wav"
+		"wave"	"npc/scanner/cbot_discharge3.wav"
+	}
+}
+
+"NPC_SScanner.FlySound"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.500"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/waste_scanner/hover.wav"
+}
+
+
+"NPC_WScanner.HoverAlarm"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/hover_alarm.wav"
+}
+
+"NPC_WScanner.Hover"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/hover.wav"
+}
+
+"NPC_WScanner.Alarm"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/alarm1.wav"
+}
+
+"NPC_WScanner.Split"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/detach.wav"
+}
+
+"NPC_WScanner.Attach"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/attach.wav"
+}
+
+"NPC_WScanner.LaserWarmUp"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/found_help.wav"
+}
+
+"NPC_WScanner.LaserShoot"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/waste_scanner/grenade_fire.wav"
+}

@@ -1,0 +1,173 @@
+"NPC_MetroPolice.Surprise"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/surprise1.wav"
+		"wave"	"npc/metropolice/surprise2.wav"
+		"wave"	"npc/metropolice/surprise3.wav"
+		"wave"	"npc/metropolice/surprise4.wav"
+	}
+}
+
+"NPC_MetroPolice.Alert"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_80dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/pointer01.wav"
+		"wave"	"npc/metropolice/pointer02.wav"
+		"wave"	"npc/metropolice/pointer03.wav"
+		"wave"	"npc/metropolice/pointer04.wav"
+		"wave"	"npc/metropolice/pointer05.wav"
+		"wave"	"npc/metropolice/pointer06.wav"
+	}
+}
+
+"NPC_MetroPolice.Die"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.500"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_80dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/die1.wav"
+		"wave"	"npc/metropolice/die2.wav"
+		"wave"	"npc/metropolice/die3.wav"
+		"wave"	"npc/metropolice/die4.wav"
+	}
+}
+
+"NPC_MetroPolice.Pain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_80dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/pain1.wav"
+		"wave"	"npc/metropolice/pain2.wav"
+		"wave"	"npc/metropolice/pain3.wav"
+		"wave"	"npc/metropolice/pain4.wav"
+	}
+}
+
+"NPC_MetroPolice.OnFireScream"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_85dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/fire_scream1.wav"
+		"wave"	"npc/metropolice/fire_scream2.wav"
+		"wave"	"npc/metropolice/fire_scream3.wav"
+	}
+}
+
+"NPC_MetroPolice.LocateSpeech"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_80dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/pointer01.wav"
+		"wave"	"npc/metropolice/pointer02.wav"
+		"wave"	"npc/metropolice/pointer03.wav"
+		"wave"	"npc/metropolice/pointer04.wav"
+		"wave"	"npc/metropolice/pointer05.wav"
+		"wave"	"npc/metropolice/pointer06.wav"
+	}
+}
+
+"NPC_MetroPolice.DeploySpeech"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/deploy01.wav"
+		"wave"	"npc/metropolice/deploy02.wav"
+		"wave"	"npc/metropolice/deploy03.wav"
+		"wave"	"npc/metropolice/deploy04.wav"
+		"wave"	"npc/metropolice/deploy05.wav"
+		"wave"	"npc/metropolice/deploy06.wav"
+	}
+}
+
+"NPC_MetroPolice.WaterSpeech"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/water01.wav"
+		"wave"	"npc/metropolice/water02.wav"
+		"wave"	"npc/metropolice/water03.wav"
+	}
+}
+
+"NPC_MetroPolice.HidingSpeech"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/hiding01.wav"
+		"wave"	"npc/metropolice/hiding02.wav"
+		"wave"	"npc/metropolice/hiding03.wav"
+		"wave"	"npc/metropolice/hiding04.wav"
+		"wave"	"npc/metropolice/hiding05.wav"
+	}
+}
+
+"NPC_MetroPolice.HitByVehicle"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"VOL_NORM"
+	"pitch"			"95, 105"
+
+	"soundlevel"	"SNDLVL_90dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/metropolice/hit_by_vehicle1.wav"
+		"wave"	"npc/metropolice/hit_by_vehicle2.wav"
+		"wave"	"npc/metropolice/hit_by_vehicle3.wav"
+	}
+}

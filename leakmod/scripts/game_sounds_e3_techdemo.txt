@@ -1,0 +1,106 @@
+"E3_techdemo_01.gmanspeaking"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.300"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song2.mp3"
+}
+"E3_techdemo_01.ratherbusy"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/gman_misc/gman_07.wav"
+}
+"E3_techdemo_01.payattention"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/gman_misc/gman_10.wav"
+}
+"E3_techdemo_01.sino_gman"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/gman_misc/sino_gman.wav"
+}
+
+"E3_techdemo.seeyouahead"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/gman_misc/gman_11.wav"
+}
+
+"E3_techdemo.sonice"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/gman_misc/gman_05.wav"
+}
+
+"E3_techdemo_02.terrainrumble"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"ambient/terrain_rumble1.wav"
+}
+
+"E3_techdemo_03.likethemapples"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo\e3_tech\likethemapples.wav"
+}
+
+"E3_end.oldtimes"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"vo/gman_misc/gman_06.wav"
+}
+
+"e3_end.music"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.800"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song5.mp3"
+}

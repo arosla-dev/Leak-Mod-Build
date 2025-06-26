@@ -1,0 +1,67 @@
+// Choreo version 1
+actor "Breen"
+{
+  channel "audio"
+  {
+    event speak "1"
+    {
+      time 0.106667 3.974944
+      param "breencast.br_welcome01"
+      fixedlength
+    }
+    event speak "2"
+    {
+      time 4.280000 10.422902
+      param "breencast.br_welcome02"
+      fixedlength
+    }
+    event speak "3"
+    {
+      time 10.726666 18.172085
+      param "breencast.br_welcome03"
+      fixedlength
+    }
+    event speak "4"
+    {
+      time 18.440002 22.834084
+      param "breencast.br_welcome04"
+      fixedlength
+    }
+    event speak "5"
+    {
+      time 23.139997 33.281132
+      param "breencast.br_welcome05"
+      fixedlength
+    }
+    event speak "6"
+    {
+      time 33.513336 36.394810
+      param "breencast.br_welcome06"
+      fixedlength
+    }
+    event speak "7"
+    {
+      time 36.686668 37.909615
+      param "breencast.br_welcome07"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "move to"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\breen.mdl"
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+}
+fps 60
+snap off

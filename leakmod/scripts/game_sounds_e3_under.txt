@@ -1,0 +1,62 @@
+"E3_Under_02.Music"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"#music/HL2_song1.mp3"	
+}
+
+// E3_UNDER_04
+//*********************************************************
+
+
+"E3_Under_04.AlyxThereYouAre01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_hydra/alyx_thereyouare01.wav"
+}
+
+"E3_Under_04.AlyxThereYouAre02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_hydra/alyx_thereyouare02.wav"
+}
+
+"E3_Under_04.AlyxRunintoTrouble"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_hydra/alyx_runintotrouble.wav"
+}
+
+
+"E3_Under_04.AlyxUhOh"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_hydra/alyx_uhoh.wav"
+}
+
+//*********************************************************
+// E3_Techdemos
+
+"E3_Techdemos.LikeThemApples"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_tech/likethemapples.wav"
+}

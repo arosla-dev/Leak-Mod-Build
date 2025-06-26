@@ -1,0 +1,205 @@
+"E3_C17_01.battlemusic"
+{
+	
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"#music/HL2_song12d.mp3"
+}
+
+// SPOKEN AUDIO
+// E3_C17_01
+//*********************************************************
+
+"E3_C17_01.BarneyRemember"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/barney_test/rememberbm.wav"
+}
+
+"E3_C17_01.BarneyManofScience"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/barney_test/manoscience.wav"
+}
+
+"E3_C17_01.BarneyCoverMe"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/barney_test/coverme01.wav"
+}
+
+"E3_C17_01.BarneyChangeofPlans"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/barney_test/changeplans.wav"
+}
+"E3_C17_01.BarneyOhYeah"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/barney_test/ohyeah01.wav"
+}
+
+
+"E3_C17_01.BarneyLittleHelp"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/barney_test/littlehelp.wav"
+}
+
+
+"E3_C17_01.CitizenGiveHealth"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/givehealth01.wav"
+}
+
+"E3_C17_01.CitizenNoOneElse"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/downtous.wav"
+}
+
+
+"E3_C17_01.CitizenGotYourBack"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_120dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/gotyourback.wav"
+}
+
+
+// E3_C17_02
+//*********************************************************
+
+"E3_C17_02.CitizenRun"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_street/run01.wav"
+}
+
+//*********************************************************
+// E3_C17_02
+
+"E3_C17_02.SeeFirstStrider"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"VOL_NORM"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"#music/HL2_song3.mp3"	
+}
+
+"E3_C17_02.SeeTheGate"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.8"
+	"soundlevel"  "SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/wall_ambient_loop1.wav"	
+}
+
+"E3_C17_02.GateGrindsDown1"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_130dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/wall_move2.wav"	
+}
+
+"E3_C17_02.GateGrindsDown2"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_130dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/wall_move1.wav"	
+}
+
+"E3_C17_02.GateGrindsUp"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.8"
+	"soundlevel"	"SNDLVL_130dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/wall_move5.wav"	
+}
+
+
+"E3_C17_02.GateGrindsUp2"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_130dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/wall_move4.wav"	
+}
+
+
+"E3_C17_02.GateHitsGround"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/wall_crash1.wav"	
+}
+
+"E3_C17_02.GateGroundCrunch"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.9"
+	"soundlevel"	"SNDLVL_130dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/glass_debris1.wav"	
+}
+
+"E3_C17_02.GateAmbientSound"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_100dB"
+	"pitch"		"PITCH_NORM"
+	
+	"wave"	"ambient/wall_ambient_loop2.wav"
+}

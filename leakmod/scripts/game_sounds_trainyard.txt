@@ -1,0 +1,1231 @@
+//*********************************************************
+
+// Trainyard
+//*********************************************************
+
+"Trainyard.ba_allmine"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_allmine.wav"
+}
+
+
+"Trainyard.ba_cantstay01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_cantstay01.wav"
+}
+
+
+"Trainyard.ba_cantstay02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_cantstay02.wav"
+}
+
+"Trainyard.ba_cantstay03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_cantstay03.wav"
+}
+
+
+"Trainyard.ba_handoff01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_handoff01.wav"
+}
+
+
+"Trainyard.ba_handoff02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_handoff02.wav"
+}
+
+"Trainyard.ba_hurryitup"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_hurryitup.wav"
+}
+
+
+"Trainyard.ba_inhere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_inhere.wav"
+}
+
+
+"Trainyard.ba_itsme"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_itsme.wav"
+}
+
+"Trainyard.ba_letsgo"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_letsgo.wav"
+}
+
+
+"Trainyard.ba_lovetotalk"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_lovetotalk.wav"
+}
+
+
+"Trainyard.ba_myguy01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_myguy01.wav"
+}
+
+"Trainyard.ba_myguy02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_myguy02.wav"
+}
+
+
+"Trainyard.ba_notthere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_notthere.wav"
+}
+
+
+"Trainyard.ba_notyouhim"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_notyouhim.wav"
+}
+
+"Trainyard.ba_quick"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_quick.wav"
+}
+
+"Trainyard.ba_scanbooth01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_scanbooth01.wav"
+}
+
+"Trainyard.ba_scanbooth02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_scanbooth02.wav"
+}
+
+"Trainyard.ba_scanbooth03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_scanbooth03.wav"
+}
+
+"Trainyard.ba_scanbooth04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_scanbooth04.wav"
+}
+
+"Trainyard.ba_talkingyou"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_talkingyou.wav"
+}
+
+
+"Trainyard.ba_theywait"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_theywait.wav"
+}
+"Trainyard.ba_whattookyou"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_whattookyou.wav"
+}
+
+"Trainyard.ba_youcomewith"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_youcomewith.wav"
+}
+
+"Trainyard.ba_inhere01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_inhere01.wav"
+}
+
+"Trainyard.ba_keepmoving"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_keepmoving.wav"
+}
+
+"Trainyard.ba_goon"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_goon.wav"
+}
+
+"Trainyard.ba_getupthere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_getupthere.wav"
+}
+
+"Trainyard.ba_thatsit"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_thatsit.wav"
+}
+
+"Trainyard.ba_awayfrom"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_awayfrom.wav"
+}
+
+"Trainyard.ba_overhere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_overhere.wav"
+}
+
+"Trainyard.ba_getin"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_getin.wav"
+}
+
+"Trainyard.ba_goonup"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_goonup.wav"
+}
+
+"Trainyard.ba_uphere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_uphere.wav"
+}
+
+"Trainyard.upthere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_upthere.wav"
+}
+
+"Trainyard.ba_againstwall"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_againstwall.wav"
+}
+
+"Trainyard.ba_move"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_move.wav"
+}
+
+"Trainyard.ba_move01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_move01.wav"
+}
+
+"Trainyard.ba_outofway"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_outofway.wav"
+}
+
+"Trainyard.ba_backoff"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_backoff.wav"
+}
+
+"Trainyard.ba_backup"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_backup.wav"
+}
+
+"Trainyard.ba_privacy"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_privacy.wav"
+}
+
+"Trainyard.ba_thatbeer"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_thatbeer.wav"
+}
+
+"Trainyard.ba_rememberme"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_rememberme.wav"
+}
+
+"Trainyard.ba_sorryscare"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_sorryscare.wav"
+}
+
+"Trainyard.ba_notsurprised"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_notsurprised.wav"
+}
+
+"Trainyard.ba_ivechanged"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_ivechanged.wav"
+}
+
+"Trainyard.ba_undercover"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_undercover.wav"
+}
+
+"Trainyard.kl_whatisit01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_whatisit01.wav"
+}
+
+"Trainyard.kl_whatisit02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_whatisit02.wav"
+}
+
+"Trainyard.ba_lookwho"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_lookwho.wav"
+}
+
+
+"Trainyard.kl_morewarn01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_morewarn01.wav"
+}
+
+"Trainyard.kl_morewarn02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_morewarn02.wav"
+}
+
+"Trainyard.kl_morewarn03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_morewarn03.wav"
+}
+
+"Trainyard.ba_tellme01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_tellme01.wav"
+}
+
+"Trainyard.ba_tellme02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_tellme02.wav"
+}
+
+"Trainyard.kl_intend"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_intend.wav"
+}
+
+"Trainyard.ba_thinking01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_thinking01.wav"
+}
+
+"Trainyard.ba_thinking02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_thinking02.wav"
+}
+
+"Trainyard.ba_thinking03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_thinking03.wav"
+}
+
+
+"Trainyard.kl_streetscan01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_streetscan01.wav"
+}
+
+"Trainyard.kl_streetscan02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_streetscan02.wav"
+}
+
+"Trainyard.ba_verify01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_verify01.wav"
+}
+
+"Trainyard.ba_verify02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_verify02.wav"
+}
+
+"Trainyard.ba_verify03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_verify03.wav"
+}
+
+"Trainyard.kl_whatsbest"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_whatsbest.wav"
+}
+
+"Trainyard.ba_gottago"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_gottago.wav"
+}
+
+"Trainyard.kl_verywell"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/kl_verywell.wav"
+}
+
+"Trainyard.ba_getalook"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_getalook.wav"
+}
+
+"Trainyard.ba_lookhere"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_lookhere.wav"
+}
+
+"Trainyard.ba_terminalplaza01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_terminalplaza01.wav"
+}
+
+"Trainyard.ba_terminalplaza02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_terminalplaza02.wav"
+}
+
+"Trainyard.ba_talktothem01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_talktothem01.wav"
+}
+
+"Trainyard.ba_talktothem02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_talktothem02.wav"
+}
+
+"Trainyard.ba_talktothem03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_talktothem03.wav"
+}
+
+"Trainyard.ba_talktothem04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_talktothem04.wav"
+}
+
+"Trainyard.ba_gotfriends"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_gotfriends.wav"
+}
+
+"Trainyard.ba_holdtight"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_holdtight.wav"
+}
+
+"Trainyard.ba_meetyoulater01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_meetyoulater01.wav"
+}
+
+"Trainyard.ba_meetyoulater02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_meetyoulater02.wav"
+}
+
+"Trainyard.ba_comeonletsgo"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_comeonletsgo.wav"
+}
+
+"Trainyard.ba_farasigo"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_farasigo.wav"
+}
+
+"Trainyard.ba_goodluck"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_goodluck.wav"
+}
+
+"Trainyard.ba_awaywindow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_awaywindow.wav"
+}
+
+"Trainyard.ba_twoway"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/ba_twoway.wav"
+}
+
+"Trainyard.cit_comewithme"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_comewithme.wav"
+}
+
+
+"Trainyard.cit_getdoor"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_getdoor.wav"
+}
+
+
+"Trainyard.cit_goodtoseeyou"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_goodtoseeyou.wav"
+}
+
+"Trainyard.cit_helpmistake"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_helpmistake.wav"
+}
+
+
+"Trainyard.cit_hurrynow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_hurrynow.wav"
+}
+
+
+"Trainyard.cit_keepgoing"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_keepgoing.wav"
+}
+
+
+"Trainyard.cit_me"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_me.wav"
+}
+
+
+"Trainyard.cit_righttrack"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_righttrack.wav"
+}
+
+
+"Trainyard.cit_screwed"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/cit_screwed.wav"
+}
+
+
+"Trainyard.mcop_badcomp"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_badcomp.wav"
+}
+
+"Trainyard.mcop_badnewsguy"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_badnewsguy.wav"
+}
+"Trainyard.mcop_hehheh"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_hehheh.wav"
+}
+"Trainyard.mcop_lastwarn"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_lastwarn.wav"
+}
+
+"Trainyard.mcop_mindyerbiz"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_mindyerbiz.wav"
+}
+
+"Trainyard.mcop_oomph"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_oomph.wav"
+}
+
+"Trainyard.mcop_stayawayhim"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_stayawayhim.wav"
+}
+
+"Trainyard.mcop_toldyou"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_toldyou.wav"
+}
+
+"Trainyard.mcop_wanthelp"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_wanthelp.wav"
+}
+
+"Trainyard.mcop_whatreyoulookingat"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_whatreyoulookingat.wav"
+}
+
+"Trainyard.mcop_whatup"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_whatup.wav"
+}
+"Trainyard.mcop_you"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_you.wav"
+}
+
+"Trainyard.mcop_youagain"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_youagain.wav"
+}
+
+"Trainyard.mcop_youheardhim"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/mcop_youheardhim.wav"
+}
+
+"Trainyard.scout_anyminute02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_anyminute02.wav"
+}
+
+
+"Trainyard.scout_anyminute"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_anyminute.wav"
+}
+
+
+"Trainyard.scout_bfriend"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_bfriend.wav"
+}
+
+
+"Trainyard.scout_heywait"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_heywait.wav"
+}
+
+
+"Trainyard.scout_mistake"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_mistake.wav"
+}
+
+
+"Trainyard.scout_papers"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_papers.wav"
+}
+
+
+"Trainyard.scout_psst"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_psst.wav"
+}
+
+
+"Trainyard.scout_stayclose"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_stayclose.wav"
+}
+
+
+"Trainyard.scout_stickwith"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_stickwith.wav"
+}
+
+
+"Trainyard.scout_wrongguy"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/scout_wrongguy.wav"
+}
+
+
+"Trainyard.term_pass_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pass_01.wav"
+}
+
+
+"Trainyard.term_pass_02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pass_02.wav"
+}
+
+
+"Trainyard.term_pass_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pass_03.wav"
+}
+
+
+"Trainyard.term_pass_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pass_04.wav"
+}
+
+
+"Trainyard.term_pass_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pass_05.wav"
+}
+
+"Trainyard.pasystem_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_01.wav"
+}
+"Trainyard.pasystem_02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_02.wav"
+}
+"Trainyard.pasystem_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_03.wav"
+}
+"Trainyard.pasystem_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_04.wav"
+}
+"Trainyard.pasystem_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_05.wav"
+}
+"Trainyard.pasystem_06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_06.wav"
+}
+"Trainyard.pasystem_07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_07.wav"
+}
+"Trainyard.pasystem_08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_08.wav"
+}
+"Trainyard.pasystem_09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_09.wav"
+}
+"Trainyard.pasystem_10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_10.wav"
+}
+"Trainyard.pasystem_11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/trainyard/term_pa_11.wav"
+}

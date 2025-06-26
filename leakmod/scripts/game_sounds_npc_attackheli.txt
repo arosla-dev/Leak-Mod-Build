@@ -1,0 +1,70 @@
+"NPC_AttackHelicopter.FireStinger"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_105dB"
+
+	"wave"			"weapons/stinger_fire1.wav"
+}
+
+"NPC_AttackHelicopter.FireGun"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"70,80"
+
+	"soundlevel"	"SNDLVL_GUNFIRE"
+
+	"rndwave"
+	{
+	"wave"		"^npc/attack_helicopter/aheli_mgun_shot1.wav"
+	"wave"			"^npc/attack_helicopter/aheli_mgun_shot2.wav"
+	"wave"			"^npc/attack_helicopter/aheli_mgun_shot3.wav"
+	}
+}
+
+"NPC_AttackHelicopter.Rotors"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_105dB"
+
+	"wave"			"^npc/attack_helicopter/aheli_rotor_loop1.wav"
+}
+
+"NPC_AttackHelicopter.RotorsMuffled"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"VOL_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_100dB"
+
+	"wave"		"npc/attack_helicopter/aheli_rotor_muffle_loop1.wav"
+}
+
+"NPC_AttackHelicopter.RotorBlast"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_105dB"
+
+	"wave"			"npc/attack_helicopter/aheli_wash_loop3.wav"
+}
+
+"NPC_AttackHelicopter.NearFlyby"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_105dB"
+
+	"wave"			"npc/attack_helicopter/aheli_close_flyby1.wav"
+}

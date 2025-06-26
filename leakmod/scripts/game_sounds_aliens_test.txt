@@ -1,0 +1,318 @@
+//*********************************************************
+// Aliens test
+
+
+"Aliens.A01-Rip01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A01-Rip01.wav"
+}
+
+"Aliens.A02-Hicks01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A02-Hicks01.wav"
+}
+
+"Aliens.A03-Rip02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A03-Rip02.wav"
+}
+
+"Aliens.A04-Rip03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A04-Rip03.wav"
+}
+
+"Aliens.A05-Rip04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A05-Rip04.wav"
+}
+
+"Aliens.A06-Rip05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A06-Rip05.wav"
+}
+
+"Aliens.A07-Rip06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A07-Rip06.wav"
+}
+
+"Aliens.A08-Rip07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A08-Rip07.wav"
+}
+
+"Aliens.A09-Rip08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A09-Rip08.wav"
+}
+
+"Aliens.A10-Rip09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A10-Rip09.wav"
+}
+
+"Aliens.A11-Rip10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A11-Rip10.wav"
+}
+
+"Aliens.A12-Rip11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A12-Rip11.wav"
+}
+
+"Aliens.A13-Rip12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A13-Rip12.wav"
+}
+
+"Aliens.A14-Hicks02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A14-Hicks02.wav"
+}
+
+"Aliens.A15-Rip13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A15-Rip13.wav"
+}
+
+"Aliens.A16-Rip14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A16-Rip14.wav"
+}
+
+"Aliens.A17-Rip15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A17-Rip15.wav"
+}
+
+"Aliens.A18-Hicks03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A18-Hicks03.wav"
+}
+
+"Aliens.A19-Hicks04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A19-Hicks04.wav"
+}
+
+"Aliens.A20-Hicks05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A20-Hicks05.wav"
+}
+
+"Aliens.A21-Hicks06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A21-Hicks06.wav"
+}
+
+"Aliens.A22-Hicks07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A22-Hicks07.wav"
+}
+
+"Aliens.A23-Hicks08"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A23-Hicks08.wav"
+}
+
+"Aliens.A24-Hicks09"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A24-Hicks09.wav"
+}
+
+"Aliens.A25-Hicks10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A25-Hicks10.wav"
+}
+
+"Aliens.A26-Hicks11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A26-Hicks11.wav"
+}
+
+"Aliens.A27-Rip16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A27-Rip16.wav"
+}
+
+"Aliens.A28-Rip17"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A28-Rip17.wav"
+}
+
+"Aliens.A29-Hicks12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A29-Hicks12.wav"
+}
+
+"Aliens.A30-Hicks13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A30-Hicks13.wav"
+}
+
+"Aliens.A31-Hicks14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A31-Hicks14.wav"
+}
+
+"Aliens.A32-Hicks15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A32-Hicks15.wav"
+}
+
+"Aliens.A33-Rip18"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A33-Rip18.wav"
+}
+
+"Aliens.A34-Hudson1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A34-Hudson1.wav"
+}
+
+"Aliens.A35-Hicks16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_TALKING"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alien_test/A35-Hicks16.wav"
+}

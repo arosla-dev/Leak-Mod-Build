@@ -1,0 +1,92 @@
+// This is the driveable APC vehicle for wasteland
+
+"vehicle"
+{
+	"wheelsperaxle"		"2"
+	"body"
+	{
+		"addgravity"			"0.2"
+		"tiltforce"			"5"
+		"tiltforceheight"		"0"
+		"countertorquefactor"	"0.75"
+		"keepuprighttorque"		"0.5"
+		"massCenterOverride"		"0 0 -32"
+		"massoverride"			"2500"		// kg
+	}
+	"engine"
+	{
+		"horsepower"			"700"
+		"maxrpm"			"5000"
+		"maxspeed"			"20"		// mph
+		"autotransmission"		"1"
+		"axleratio"				"3.0"
+
+		"gear"					"10.0"		// 1st gear
+		"shiftuprpm"			"4800"
+		"shiftdownrpm"			"500"
+	}
+
+	"steering"
+	{
+		"degrees"		"30"
+		"slowcarspeed"		"0"
+		"fastcarspeed"		"30"
+		"slowsteeringrate"	"1.6"
+		"faststeeringrate"	"0.25"
+	}
+
+	// front axle
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"		"33"
+			"mass"			"400"
+			"inertia"		"0.3"
+			"damping"		"0"
+			"rotdamping"	"0.5"
+			"material"		"rubbertire"
+		}
+		"suspension"
+		{
+			"springConstant"			"90"
+			"springDamping"				"10"
+			"stabilizerConstant"		"80"
+			"springDampingCompression"	"3"
+			"maxBodyForce"				"120"
+		}
+		"offset"		"0 64 25"
+		"wheeloffset"	"40 0 0"
+
+		"torquefactor"	"0.5"
+		"brakefactor"	"0.5"
+	}
+
+	// rear axle
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"		"33"
+			"mass"			"400"
+			"inertia"		"0.3"
+			"damping"		"0"
+			"rotdamping"	"0.5"
+			"material"		"rubbertire"
+		}
+		"suspension"
+		{
+			"springConstant"			"90"
+			"springDamping"				"10"
+			"stabilizerConstant"		"80"
+			"springDampingCompression"	"3"
+			"maxBodyForce"				"120"
+		}
+		"offset"		"0 -68 25"
+		"wheeloffset"	"40 0 0"
+		"torquefactor"	"0.5"
+		"brakefactor"	"1.5"
+	}
+}
+
+

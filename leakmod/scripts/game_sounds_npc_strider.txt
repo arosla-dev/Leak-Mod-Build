@@ -1,0 +1,120 @@
+"NPC_Strider.Charge"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_120dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/strider/charging.wav"
+	}
+}
+
+"NPC_Strider.Shoot"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_140dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/strider/fire.wav"
+	}
+}
+
+"NPC_Strider.FireMinigun"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"	"85, 115"
+	"rndwave"
+	{
+		//"wave"	"^npc/strider/strider_minigun.wav"	
+		"wave"	"^npc/strider/strider_minigun2.wav"	
+	}
+}
+
+"NPC_Strider.Whoosh"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"0.7"
+	"soundlevel"	"SNDLVL_85dB"
+	"pitch"	"95, 105"
+	"rndwave"
+	{
+		"wave"	"npc/strider/strider_legstretch1.wav"
+		"wave"	"npc/strider/strider_legstretch2.wav"
+		"wave"	"npc/strider/strider_legstretch3.wav"
+	}
+}
+
+"NPC_Strider.Footstep"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"0.8"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"	"98, 102"
+	"rndwave"
+	{
+		"wave"	"^npc/strider/strider_step1.wav"
+		"wave"	"^npc/strider/strider_step2.wav"
+		"wave"	"^npc/strider/strider_step3.wav"
+	}
+}
+
+"NPC_Strider.Creak"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_70dB"
+
+	"rndwave"
+	{
+		"wave"	"npc/strider/creak1.wav"
+		"wave"	"npc/strider/creak2.wav"
+		"wave"	"npc/strider/creak3.wav"
+		"wave"	"npc/strider/creak4.wav"
+	}
+}
+
+"NPC_Strider.Skewer"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"0.8"
+	"soundlevel"	"SNDLVL_100dB"
+	"pitch"	"98, 102"
+	"rndwave"
+	{
+		"wave"	"^npc/strider/strider_step1.wav"
+		"wave"	"^npc/strider/strider_step2.wav"
+		"wave"	"^npc/strider/strider_step3.wav"
+	}
+}
+
+"NPC_Strider.RagdollDetach"
+{
+	"channel"	"CHAN_BODY"
+	"volume"	"0.7"
+	"soundlevel"	"SNDLVL_85dB"
+	"pitch"	"95, 105"
+	"rndwave"
+	{
+		"wave"	"npc/strider/strider_legstretch1.wav"
+		"wave"	"npc/strider/strider_legstretch2.wav"
+		"wave"	"npc/strider/strider_legstretch3.wav"
+	}
+}
+
+
+"NPC_Strider.OpenHatch"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_85dB"
+	"pitch"	"95, 105"
+	"rndwave"
+	{
+		"wave"	"npc/strider/fire.wav"
+	}
+}

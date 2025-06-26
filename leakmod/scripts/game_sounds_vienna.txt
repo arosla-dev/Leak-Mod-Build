@@ -1,0 +1,182 @@
+//*********************************************************
+// Hobos of Vienna
+//*********************************************************
+
+"vienna.hobo1_whatsthatcan"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo1_whatsthatcan.wav"
+}
+
+"vienna.hobo1_dingedin"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo1_dingedin.wav"
+}
+"vienna.hobo1_figgers"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo1_figgers.wav"
+}
+"vienna.hobo1_highblood"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo1_highblood.wav"
+}
+"vienna.hobo1_hepc"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo1_hepc.wav"
+}
+"vienna.hobo1_shutupeat"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo1_shutupeat.wav"
+}
+"vienna.hobo2_dunno"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_dunno.wav"
+}
+"vienna.hobo2_aintgotwhat"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_aintgotwhat.wav"
+}
+"vienna.hobo2_whichisit"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_whichisit.wav"
+}
+"vienna.hobo2_suityerself"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_suityerself.wav"
+}
+"vienna.hobo2_gastro"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_gastro.wav"
+}
+"vienna.hobo2_stilleatinit"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_stilleatinit.wav"
+}
+"vienna.hobo2_mansgotpoint"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_mansgotpoint.wav"
+}
+"vienna.hobo2_vienna"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo2_vienna.wav"
+}
+
+"vienna.hobo3_fittoeat"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_fittoeat.wav"
+}
+"vienna.hobo3_youknow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_youknow.wav"
+}
+"vienna.hobo3_what"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_what.wav"
+}
+"vienna.hobo3_dontremember"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_dontremember.wav"
+}
+"vienna.hobo3_lifeinhands"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_lifeinhands.wav"
+}
+"vienna.hobo3_highblood"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_highblood.wav"
+}
+"vienna.hobo3_nopebotch"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_nopebotch.wav"
+}
+"vienna.hobo3_aintsilent"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_70dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/vienna/hobo3_aintsilent.wav"
+}

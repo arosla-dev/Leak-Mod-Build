@@ -1,0 +1,132 @@
+// This is the mine digger vehicle for Ravenholm
+
+"vehicle"
+{
+	"wheelsperaxle"		"2"
+	"body"
+	{
+		"addgravity"			"0.2"
+		"tiltforce"			"5"
+		"tiltforceheight"		"0"
+		"countertorquefactor"	"0.75"
+		"keepuprighttorque"		"0.5"
+		"massCenterOverride"		"0 0 -32"
+		"massoverride"			"1200"		// kg
+	}
+	"engine"
+	{
+		"horsepower"			"700"
+		"maxrpm"			"5000"
+		"maxspeed"			"13"		// mph
+		"maxReverseSpeed"	"10"		// mph
+		"autotransmission"		"1"
+		"axleratio"				"3.0"
+
+		"gear"					"10.0"		// 1st gear
+		"shiftuprpm"			"4800"
+		"shiftdownrpm"			"500"
+	}
+
+	"steering"
+	{
+		"degrees"		"30"
+		"slowcarspeed"		"0"
+		"fastcarspeed"		"30"
+		"slowsteeringrate"	"21"
+		"faststeeringrate"	"0.25"
+	}
+
+	// front axle
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"		"33"
+			"mass"			"400"
+			"inertia"		"0.3"
+			"damping"		"0"
+			"rotdamping"	"0"
+			"material"		"rubbertire"
+		}
+		"suspension"
+		{
+			"springConstant"			"90"
+			"springDamping"				"10"
+			"stabilizerConstant"		"80"
+			"springDampingCompression"	"3"
+			"maxBodyForce"				"120"
+		}
+		"offset"		"0 64 25"
+		"wheeloffset"	"40 0 0"
+
+		"torquefactor"	"0.5"
+		"brakefactor"	"0.5"
+	}
+
+	// rear axle
+	"axle"
+	{
+		"wheel"
+		{
+			"radius"		"33"
+			"mass"			"400"
+			"inertia"		"0.3"
+			"damping"		"0"
+			"rotdamping"	"0.5"
+			"material"		"rubbertire"
+		}
+		"suspension"
+		{
+			"springConstant"			"90"
+			"springDamping"				"10"
+			"stabilizerConstant"		"80"
+			"springDampingCompression"	"3"
+			"maxBodyForce"				"120"
+		}
+		"offset"		"0 -68 25"
+		"wheeloffset"	"40 0 0"
+		"torquefactor"	"0.5"
+		"brakefactor"	"1.5"
+	}
+}
+
+"vehicle_sounds"
+{
+	// List gears in order from lowest speed to highest speed
+	"gear"
+	{
+		"max_speed"		"0.3"
+		"speed_approach_factor" "0.1"
+		"engine_loop"		"Digger_firstgear"
+		"foot_off"		"Digger_engine_idle"
+		"foot_off_slow"		"Digger_engine_idle"
+		"downshifted"		"Digger_skid_normalfriction"
+	}
+	"gear"
+	{
+		"max_speed"		"0.6"
+		"speed_approach_factor" "0.1"
+		"engine_loop"		"Digger_secondgear"
+		"foot_off"		"Digger_engine_idle"
+		"foot_off_slow"		"Digger_engine_idle"
+		"downshifted"		"Digger_skid_normalfriction"
+	}
+	"gear"
+	{
+		"max_speed"		"1.0"
+		"speed_approach_factor" "0.03"
+		"engine_loop"		""Digger_grinder_start""
+		"foot_off"		"Digger_engine_idle"
+		"foot_off_slow"		"Digger_engine_idle"
+	}
+	"engine_start"		"Digger_engine_start"
+	"engine_stop"		"Digger_engine_stop"
+	"engine_idle"		"Digger_engine_idle"
+	"turbo"			"Digger_grinder_start"
+	"turbo_off"		"Digger_grinder_stop"
+	"skid_lowfriction"	"Digger_skid_normalfriction"
+	"skid_normalfriction"	"Digger_skid_normalfriction"
+	"skid_highfriction"	"Digger_skid_normalfriction"
+	"speed_sound"		"Digger_engine_idle"
+}
+

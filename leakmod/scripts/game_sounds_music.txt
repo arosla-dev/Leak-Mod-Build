@@ -1,0 +1,783 @@
+//*********************************************************
+// Music
+
+"Music.HL1_song1.mp3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song1.mp3"
+}
+
+"Music.HL1_song2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song2.mp3"
+}
+
+"Music.HL1_song3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song3.mp3"
+}
+
+"Music.HL1_song4"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song4.mp3"
+}
+
+"Music.HL1_song5"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song5.mp3"
+}
+
+"Music.HL1_song6"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song6.mp3"
+}
+
+"Music.HL1_stinger_song7"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/stingers/hl1_stinger_song7.mp3"
+}
+
+"Music.HL1_stinger_song8"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/stingers/hl1_stinger_song8.mp3"
+}
+
+"Music.HL1_song9"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song9.mp3"
+}
+
+"Music.HL1_song10"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song10.mp3"
+}
+
+"Music.HL1_song11"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song11.mp3"
+}
+
+"Music.HL1_song11_long"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song11_long.mp3"
+}
+
+"Music.HL1_song12"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song12.mp3"
+}
+
+"Music.HL1_song13"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song13.mp3"
+}
+
+"Music.HL1_song14"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song14.mp3"
+}
+
+"Music.HL1_song14_original"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song14_original.mp3"
+}
+
+"Music.HL1_song15"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song15.mp3"
+}
+
+"Music.HL1_stinger_song16"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/stingers/hl1_stinger_song16.mp3"
+}
+
+"Music.HL1_song17"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song17.mp3"
+}
+
+"Music.HL1_song18"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song18.mp3"
+}
+
+"Music.HL1_song19"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song19.mp3"
+}
+
+"Music.HL1_song20"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song20.mp3"
+}
+
+"Music.HL1_song21"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song21.mp3"
+}
+
+"Music.HL1_song22"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song22.mp3"
+}
+
+"Music.HL1_song24"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song24.mp3"
+}
+
+"Music.HL1_song25"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song25.mp3"
+}
+
+"Music.HL1_song25_remix3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song25_remix3.mp3"
+}
+
+"Music.HL1_song26.mp3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl1_song26.mp3"
+}
+
+"Music.HL1_stinger_song27"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/stingers/hl1_stinger_song27.mp3"
+}
+
+"Music.HL1_stinger_song28"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/stingers/hl1_stinger_song28.mp3"
+}
+
+"Music.HL2_ambient_1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl2_ambient_1.wav"
+}
+
+"Music.HL2_intro"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl2_intro.mp3"
+}
+
+"Music.HL2_song0"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl2_song0.mp3"
+}
+
+"Music.HL2_song1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song1.mp3"
+}
+
+"Music.HL2_song2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song2.mp3"
+}
+
+"Music.HL2_song3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song3.mp3"
+}
+
+"Music.HL2_song4"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song4.mp3"
+}
+
+"Music.HL2_song5"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song5.mp3"
+}
+
+"Music.HL2_song6"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song6.mp3"
+}
+
+"Music.HL2_song6_loop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song6.wav"
+}
+
+"Music.HL2_song7"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song7.mp3"
+}
+
+"Music.HL2_song8"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song8.mp3"
+}
+
+"Music.HL2_song8_loop"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song8.wav"
+}
+
+"Music.HL2_song10"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song10.mp3"
+}
+
+"Music.HL2_song11"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song11.mp3"
+}
+
+"Music.HL2_song12"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song12.mp3"
+}
+
+"Music.HL2_song12c"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song12c.mp3"
+}
+
+"Music.HL2_song12d"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song12d.mp3"
+}
+
+"Music.HL2_song13"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song13.mp3"
+}
+
+"Music.HL2_song14"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song14.mp3"
+}
+
+"Music.HL2_song15"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song15.mp3"
+}
+
+"Music.HL2_song16"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song16.mp3"
+}
+
+"Music.HL2_song17"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song17.mp3"
+}
+
+"Music.HL2_song19"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song19.mp3"
+}
+
+"Music.HL2_song20_submix0"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song20_submix0.mp3"
+}
+
+"Music.HL2_song20_submix4"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song20_submix4.mp3"
+}
+
+"Music.HL2_song22_CombineTheme3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song22_CombineTheme3.mp3"
+}
+
+"Music.HL2_song23_suitsong3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song23_suitsong3.mp3"
+}
+
+"Music.HL2_song24_Lamarr"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song24_Lamarr.mp3"
+}
+
+"Music.HL2_song25_teleporter"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song25_teleporter.mp3"
+}
+
+"Music.HL2_song26"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song26.mp3"
+}
+
+"Music.hl2_song26_trainstation1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl2_song26_trainstation1.mp3"
+}
+
+"Music.hl2_song27_trainstation2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/hl2_song27_trainstation2.mp3"
+}
+
+"Music.HL2_song28"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song28.mp3"
+}
+
+"Music.HL2_song29"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song29.mp3"
+}
+
+"Music.HL2_song30"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song30.mp3"
+}
+
+"Music.HL2_song31"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song31.mp3"
+}
+
+"Music.HL2_song32"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song32.mp3"
+}
+
+"Music.HL2_song33"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/HL2_song33.mp3"
+}
+
+"Music.radio1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/radio1.mp3"
+}
+
+"Music.Ravenholm_1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"10"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"#music/Ravenholm_1.mp3"
+}

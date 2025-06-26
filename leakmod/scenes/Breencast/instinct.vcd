@@ -1,0 +1,175 @@
+// Choreo version 1
+actor "Breen"
+{
+  channel "audio"
+  {
+    event speak "1"
+    {
+      time 0.420000 15.432902
+      param "breencast.br_instinct01"
+      fixedlength
+    }
+    event speak "2"
+    {
+      time 15.693334 27.866917
+      param "breencast.br_instinct02"
+      fixedlength
+    }
+    event speak "3"
+    {
+      time 28.226667 46.593513
+      param "breencast.br_instinct03"
+      fixedlength
+    }
+    event speak "4"
+    {
+      time 46.933334 57.603722
+      param "breencast.br_instinct04"
+      fixedlength
+    }
+    event speak "5"
+    {
+      time 57.906666 68.664963
+      param "breencast.br_instinct05"
+      fixedlength
+    }
+    event speak "6"
+    {
+      time 69.000000 77.730408
+      param "breencast.br_instinct06"
+      fixedlength
+    }
+    event speak "7"
+    {
+      time 78.026665 85.152763
+      param "breencast.br_instinct07"
+      fixedlength
+    }
+    event speak "8"
+    {
+      time 85.460007 92.732887
+      param "breencast.br_instinct08"
+      fixedlength
+    }
+    event speak "9"
+    {
+      time 93.059998 96.735504
+      param "breencast.br_instinct09"
+      fixedlength
+    }
+    event speak "10"
+    {
+      time 97.026665 106.740433
+      param "breencast.br_instinct10"
+      fixedlength
+    }
+    event speak "11"
+    {
+      time 106.980003 110.833359
+      param "breencast.br_instinct11"
+      fixedlength
+    }
+    event speak "12"
+    {
+      time 111.173332 115.816391
+      param "breencast.br_instinct12"
+      fixedlength
+    }
+    event speak "13"
+    {
+      time 116.040001 133.557068
+      param "breencast.br_instinct13"
+      fixedlength
+    }
+    event speak "14"
+    {
+      time 133.799988 137.954437
+      param "breencast.br_instinct14"
+      fixedlength
+    }
+    event speak "15"
+    {
+      time 138.240005 143.257874
+      param "breencast.br_instinct15"
+      fixedlength
+    }
+    event speak "16"
+    {
+      time 143.506668 148.492905
+      param "breencast.br_instinct16"
+      fixedlength
+    }
+    event speak "17"
+    {
+      time 148.753342 154.737793
+      param "breencast.br_instinct17"
+      fixedlength
+    }
+    event speak "18"
+    {
+      time 154.973343 158.354324
+      param "breencast.br_instinct18"
+      fixedlength
+    }
+    event speak "19"
+    {
+      time 158.599991 166.983414
+      param "breencast.br_instinct19"
+      fixedlength
+    }
+    event speak "20"
+    {
+      time 167.226669 173.126984
+      param "breencast.br_instinct20"
+      fixedlength
+    }
+    event speak "21"
+    {
+      time 173.380005 177.444397
+      param "breencast.br_instinct21"
+      fixedlength
+    }
+    event speak "22"
+    {
+      time 177.740021 182.503220
+      param "breencast.br_instinct22"
+      fixedlength
+    }
+    event speak "23"
+    {
+      time 182.813324 187.477997
+      param "breencast.br_instinct23"
+      fixedlength
+    }
+    event speak "24"
+    {
+      time 187.793335 200.505356
+      param "breencast.br_instinct24"
+      fixedlength
+    }
+    event speak "25"
+    {
+      time 200.806686 207.095367
+      param "breencast.br_instinct25"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "move to"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\breen.mdl"
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "SceneRampTool" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+}
+fps 60
+snap off

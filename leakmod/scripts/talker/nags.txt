@@ -1,0 +1,83 @@
+response "HEVnag"
+{
+	scene "scenes/k_lab/al_nagsuit01.vcd"
+	scene "scenes/k_lab/al_nagsuit02.vcd"
+	scene "scenes/k_lab/al_nagsuit03.vcd"
+	scene "scenes/k_lab/ba_nagsuit01.vcd"
+	scene "scenes/k_lab/ba_nagsuit02.vcd"
+	scene "scenes/k_lab/ba_nagsuit03.vcd"
+	scene "scenes/k_lab/kl_nagsuit01.vcd" displayfirst
+	scene "scenes/k_lab/kl_nagsuit02.vcd"
+	scene "scenes/k_lab/kl_nagsuit03.vcd"
+}
+
+
+criterion "IsHEVnagConcept" "concept" "HEVnag" "required"
+
+
+
+rule NagWearHEV
+{
+	criteria		IsHEVnagConcept
+	response		HEVnag
+}
+
+
+response "PlugNag"
+{
+	scene "scenes/k_lab/al_nagplug01.vcd"
+	scene "scenes/k_lab/al_nagplug02.vcd"
+	
+}
+
+
+criterion "IsPlugNagConcept" "concept" "PlugNag" "required"
+
+
+
+rule NagPlug
+{
+	criteria		IsPlugNagConcept
+	response		PlugNag
+}
+
+
+response "SwitchNag"
+{
+	scene "scenes/k_lab/al_nagswitch01.vcd"
+	scene "scenes/k_lab/al_nagswitch02.vcd"
+	scene "scenes/k_lab/al_nagswitch03.vcd"
+	scene "scenes/k_lab/kl_nagswitch01.vcd" displayfirst
+	scene "scenes/k_lab/kl_nagswitch02.vcd"
+	scene "scenes/k_lab/kl_nagswitch03.vcd"
+	
+}
+
+
+criterion "IsSwitchNagConcept" "concept" "SwitchNag" "required"
+
+
+rule NagSwitch
+{
+	criteria		IsSwitchNagConcept
+	response		SwitchNag
+
+}
+response "TportNag"
+{
+	scene "scenes/k_lab/ba_nagtport01.vcd"
+	scene "scenes/k_lab/ba_nagtport02.vcd"
+	scene "scenes/k_lab/kl_nagtport01.vcd"
+	scene "scenes/k_lab/kl_nagtport02.vcd" displayfirst	
+}
+
+
+criterion "IsTportNagConcept" "concept" "TportNag" "required"
+
+
+rule NagTport
+{
+	criteria		IsTportNagConcept
+	response		TportNag
+
+}

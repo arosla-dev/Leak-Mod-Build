@@ -1,0 +1,92 @@
+"NPC_Crow.Hop"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"50, 200"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"npc/crow/hop1.wav"
+		"wave"	"npc/crow/hop2.wav"
+	}
+}
+
+"NPC_Crow.Gib"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"common/bodysplat.wav"
+}
+
+"NPC_Crow.Idle"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"npc/crow/idle1.wav"
+		"wave"	"npc/crow/idle2.wav"
+	}
+}
+
+"NPC_Crow.Alert"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"wave"			"npc/crow/alert1.wav"
+}
+
+"NPC_Crow.Pain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"			"npc/crow/pain1.wav"
+		"wave"			"npc/crow/pain2.wav"
+	}
+}
+
+"NPC_Crow.Die"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"			"npc/crow/die1.wav"
+		"wave"			"npc/crow/die2.wav"
+	}
+}
+
+"NPC_Crow.Flap"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"50, 200"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"wave"			"npc/crow/flap1.wav"
+}

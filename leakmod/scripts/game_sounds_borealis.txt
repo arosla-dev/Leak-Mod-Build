@@ -1,0 +1,580 @@
+//*********************************************************
+// Borealis
+
+
+"borealis.odell_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_01.wav"
+}
+
+"borealis.odell_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_02.wav"
+}
+
+"borealis.odell_03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_03.wav"
+}
+
+"borealis.odell_04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_04.wav"
+}
+
+"borealis.odell_05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_05.wav"
+}
+
+"borealis.odell_06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_06.wav"
+}
+
+"borealis.odell_07"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_07.wav"
+}
+
+"borealis.odell_08"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_08.wav"
+}
+
+"borealis.odell_09"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_09.wav"
+}
+
+"borealis.odell_09a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_09a.wav"
+}
+
+"borealis.odell_10"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_10.wav"
+}
+
+"borealis.odell_11"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_11.wav"
+}
+
+"borealis.odell_11a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_11a.wav"
+}
+
+"borealis.odell_12"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_12.wav"
+}
+
+"borealis.odell_13"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_13.wav"
+}
+
+"borealis.odell_14"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_14.wav"
+}
+
+"borealis.odell_15"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_15.wav"
+}
+
+"borealis.odell_16"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_16.wav"
+}
+
+"borealis.odell_17"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_17.wav"
+}
+
+"borealis.odell_18"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_18.wav"
+}
+
+"borealis.odell_break_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_break_01.wav"
+}
+
+"borealis.odell_comeon_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_comeon_01.wav"
+}
+
+"borealis.odell_comeon_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_comeon_02.wav"
+}
+
+"borealis.odell_comeon_03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_comeon_03.wav"
+}
+
+"borealis.odell_comeon_04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_comeon_04.wav"
+}
+
+"borealis.odell_lookit_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_lookit_01.wav"
+}
+
+"borealis.odell_lookit_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_lookit_02.wav"
+}
+
+"borealis.odell_lookit_03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_lookit_03.wav"
+}
+
+"borealis.odell_lost_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_lost_01.wav"
+}
+
+"borealis.odell_lost_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_lost_02.wav"
+}
+
+"borealis.odell_lost_03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_lost_03.wav"
+}
+
+"borealis.odell_see_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_see_01.wav"
+}
+
+"borealis.odell_see_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_see_02.wav"
+}
+
+"borealis.odell_shock_01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_01.wav"
+}
+
+"borealis.odell_shock_01a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_01a.wav"
+}
+
+"borealis.odell_shock_02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_02.wav"
+}
+
+"borealis.odell_shock_02a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_02a.wav"
+}
+
+"borealis.odell_shock_03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_03.wav"
+}
+
+"borealis.odell_shock_03a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_03a.wav"
+}
+
+"borealis.odell_shock_04"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_04.wav"
+}
+
+"borealis.odell_shock_04a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_04a.wav"
+}
+
+"borealis.odell_shock_05"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_05.wav"
+}
+
+"borealis.odell_shock_05a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_05a.wav"
+}
+
+"borealis.odell_shock_06"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_06.wav"
+}
+
+"borealis.odell_shock_06a"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/borealis/Odell_shock_06a.wav"
+}
+
+"borealis.odell_old_anyway"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/anyway.wav"
+}
+
+"borealis.odell_old_catchup"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/catchup.wav"
+}
+
+"borealis.odell_old_cheese"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/cheese.wav"
+}
+
+"borealis.odell_old_hold"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/hold.wav"
+}
+
+"borealis.odell_old_odelltest"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odelltest.wav"
+}
+
+"borealis.odell_old_odtest0"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest0.wav"
+}
+
+"borealis.odell_old_odtest1"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest1.wav"
+}
+
+"borealis.odell_old_odtest2"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest2.wav"
+}
+
+"borealis.odell_old_odtest3"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest3.wav"
+}
+
+"borealis.odell_old_odtest4"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest4.wav"
+}
+
+"borealis.odell_old_odtest5"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest5.wav"
+}
+
+"borealis.odell_old_odtest6"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest6.wav"
+}
+
+"borealis.odell_old_odtest7"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest7.wav"
+}
+
+"borealis.odell_old_odtest8"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/odtest8.wav"
+}
+
+"borealis.odell_old_stick"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/stick.wav"
+}
+
+"borealis.odell_old_striker"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/striker.wav"
+}
+
+"borealis.odell_old_wassay"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/wassay.wav"
+}
+
+"borealis.odell_old_where"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/where.wav"
+}
+
+"borealis.odell_old_withme"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"odell/withme.wav"
+}
+

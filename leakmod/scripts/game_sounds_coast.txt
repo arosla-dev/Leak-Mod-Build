@@ -1,0 +1,69 @@
+//*********************************************************
+// Coast
+
+
+"coast.rpgguy_greet"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/rpgguy_greet.wav"
+}
+"coast.rpgguy_showyou"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/rpgguy_showyou.wav"
+}
+"coast.rpgguy_watchthis"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/rpgguy_watchthis.wav"
+}
+"coast.rpgguy_outsmart"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/rpgguy_outsmart.wav"
+}
+"coast.rpgguy_doasisay"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/rpgguy_doasisay.wav"
+}
+"coast.cubbage01"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/cubbage01.wav"
+}
+"coast.cubbage02"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/cubbage02.wav"
+}
+
+"coast.cubbage03"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_TALKING"
+	"wave"			"vo/coast/cubbage03.wav"
+}

@@ -1,0 +1,94 @@
+// E3_Town
+//*********************************************************
+
+"E3_Phystown.Music1"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"#music/HL2_song7.mp3"	
+}
+
+
+// E3_phystown music
+
+"E3_Phystown.Zombiechopper"
+{
+	// starts as you round corner and see 1st zombie
+
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"#music/Ravenholm_1.mp3"
+}
+
+// E3_phystown metal scrape
+
+"E3_Phystown.MetalBoxFalling"
+{
+
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"ambient/metal_big_impact_scrape1.wav"
+}
+
+"E3_Phystown.Slicer"
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"  "SNDLVL_90dB"
+	"pitch"		"85,115"
+	"volume"	"0.8, 1.0"
+
+	"rndwave"
+	{
+		"wave"		"ambient/slicer1.wav"
+		"wave"		"ambient/slicer2.wav"
+		"wave"		"ambient/slicer3.wav"
+		"wave"		"ambient/slicer4.wav"
+	}
+}
+
+"E3_Town.cs_lookout"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_town/cs_lookout.wav"
+}
+
+
+"E3_Town.cs_fallback"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_town/cs_fallback.wav"
+}
+
+
+"E3_Town.cs_everybodyback"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_town/cs_everybodyback.wav"
+}
+
+"E3_Town.cs_mandown2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/e3_town/cs_mandown2.wav"
+}

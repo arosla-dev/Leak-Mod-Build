@@ -1,0 +1,182 @@
+//*********************************************************
+// old Alyx quotes
+
+"alyx_test.misc1"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc1.wav"
+}
+
+"alyx_test.misc2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc2.wav"
+}
+
+"alyx_test.misc3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc3.wav"
+}
+
+"alyx_test.misc4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc4.wav"
+}
+
+"alyx_test.misc5"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc5.wav"
+}
+
+"alyx_test.misc6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc6.wav"
+}
+
+"alyx_test.misc7"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc7.wav"
+}
+
+"alyx_test.misc8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc8.wav"
+}
+
+"alyx_test.misc9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc9.wav"
+}
+
+"alyx_test.misc10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc10.wav"
+}
+
+"alyx_test.misc11"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc11.wav"
+}
+
+"alyx_test.misc12"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc12.wav"
+}
+
+"alyx_test.misc13"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc13.wav"
+}
+
+"alyx_test.misc14"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc14.wav"
+}
+
+"alyx_test.misc15"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc15.wav"
+}
+
+"alyx_test.misc16"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc16.wav"
+}
+
+"alyx_test.misc17"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc17.wav"
+}
+
+"alyx_test.misc18"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc18.wav"
+}
+
+"alyx_test.misc19"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc19.wav"
+}
+
+"alyx_test.misc20"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"temp/alyx/misc20.wav"
+}

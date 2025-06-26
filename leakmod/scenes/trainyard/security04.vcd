@@ -1,0 +1,66 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Audio"
+  {
+    event speak "away from hacks"
+    {
+      time 0.093333 2.779568
+      param "Trainyard.ba_talktothem02"
+      fixedlength
+    }
+    event speak "like me"
+    {
+      time 3.313332 5.011451
+      param "Trainyard.ba_talktothem03"
+      fixedlength
+    }
+    event speak "low profile"
+    {
+      time 6.240000 7.904626
+      param "Trainyard.ba_talktothem04"
+      fixedlength
+    }
+    event speak "meet ya later"
+    {
+      time 8.053333 9.091519
+      param "Trainyard.ba_meetyoulater01"
+      fixedlength
+    }
+    event speak "c'mon let's go"
+    {
+      time 11.459999 13.062834
+      param "Trainyard.ba_comeonletsgo"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "look at player"
+    {
+      time 0.113333 13.353333
+      param "!player"
+    }
+  }
+  channel "move to"
+  {
+    event face "face player"
+    {
+      time 3.860000 5.546667
+      param "!player"
+    }
+    event moveto "move toward door"
+    {
+      time 8.226667 -1.000000
+      param "barney_security_room_door_mark"
+    }
+    event face "face player again"
+    {
+      time 11.460000 13.326668
+      param "!player"
+    }
+  }
+}
+
+fps 60
+snap off

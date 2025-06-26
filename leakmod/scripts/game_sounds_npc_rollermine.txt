@@ -1,0 +1,199 @@
+"NPC_RollerMine.Roll"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"80, 150"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_moveslow_loop1.wav"
+}
+
+"NPC_RollerMine.RollWithSpikes"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"80, 150"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_movefast_loop1.wav"
+}
+
+"NPC_RollerMine.Tossed"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_tossed1.wav"
+}
+
+"NPC_RollerMine.Held"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_taunt2.wav"
+}
+
+"NPC_RollerMine.Taunt"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.400"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_taunt1.wav"
+}
+
+"NPC_RollerMine.Ping"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.750"
+	"pitch"			"100, 140"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_seek_loop1.wav"
+}
+
+"NPC_RollerMine.OpenSpikes"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/roller/mine/rmine_blades_out1.wav"
+		"wave"	"npc/roller/mine/rmine_blades_out2.wav"
+		"wave"	"npc/roller/mine/rmine_blades_out3.wav"
+	}
+}
+
+"NPC_RollerMine.CloseSpikes"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/roller/mine/rmine_blades_in1.wav"
+		"wave"	"npc/roller/mine/rmine_blades_in2.wav"
+		"wave"	"npc/roller/mine/rmine_blades_in3.wav"
+	}
+}
+
+"NPC_RollerMine.Warn"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/warn.wav"
+}
+
+"NPC_RollerMine.Shock"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_GUNFIRE"
+
+	"wave"			"npc/vort/attack_shoot.wav"
+}
+
+"NPC_RollerMine.Hurt"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/roller/mine/rmine_predetonate.wav"
+}
+
+"NPC_RollerMine.Chirp"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/roller/code1.wav"
+		"wave"	"npc/roller/code2.wav"
+	}
+}
+
+"NPC_RollerMine.ExplodeChirp"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/roller/remote_done.wav"
+}
+
+"NPC_RollerMine.ChirpRespond"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/roller/code3.wav"
+		"wave"	"npc/roller/code4.wav"
+		"wave"	"npc/roller/code5.wav"
+	}
+}
+
+"NPC_RollerMine.ExplodeChirpRespond"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"	"npc/roller/remove_yes.wav"
+}
+
+"NPC_RollerMine.JoltVehicle"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"90, 110"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/roller/bark1.wav"
+		"wave"	"npc/roller/bark2.wav"
+		"wave"	"npc/roller/bark3.wav"
+	}
+}
