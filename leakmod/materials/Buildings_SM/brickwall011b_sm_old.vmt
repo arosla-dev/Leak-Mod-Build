@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Windowless variant for test map aaron/cremator and its variants
+	"$basetexture" "Buildings_SM/brickwall011b_sm_old"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+}
