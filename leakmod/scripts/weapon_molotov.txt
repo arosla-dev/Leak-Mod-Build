@@ -10,7 +10,7 @@ WeaponData
 	"bucket"				"4"
 	"bucket_position"		"4"
 
-	"clip_size"				"1"
+	"clip_size"				"20"
 	"primary_ammo"			"None"
 	"secondary_ammo"		"molotov"
 
