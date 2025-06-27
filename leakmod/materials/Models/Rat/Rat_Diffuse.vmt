@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture" "models\rat\Rat_Diffuse"
+	"$bumpmap" "models\rat\Rat_Normal"
+	"$model" 1
+}

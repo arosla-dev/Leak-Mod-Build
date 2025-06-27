@@ -1,0 +1,9 @@
+"VertexLitGeneric_DX8"
+{
+	"$basetexture" "models/Antlion/antlion_sheet"
+//	"$envmapmask" "models/Antlion/abdomen_m"
+//	"$alphaenvmapmask" 1
+//	"$envmap" "models/Antlion/antlion_env"
+//	"$envmapsphere" 1
+	"$surfaceprop" "flesh"
+}

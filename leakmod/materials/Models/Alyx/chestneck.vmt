@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Alyx/chestneck"
+	"$envmapmask" "models/Alyx/chestneck_mask"
+	"$envmap" "models/cremator/cremsuitenvmap"
+	"$envmapsphere" 1
+}

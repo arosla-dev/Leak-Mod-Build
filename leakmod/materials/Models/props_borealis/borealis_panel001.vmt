@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_borealis/borealis_panel001"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	"$bumpmap" "Models/props_borealis/borealis_panel001_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+	//"$envmaptint" "[ .5 .5 .5]"
+}
+
+

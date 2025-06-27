@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Humans/Female/naomi_facemap"
+	"$surfaceprop" "flesh"
+}

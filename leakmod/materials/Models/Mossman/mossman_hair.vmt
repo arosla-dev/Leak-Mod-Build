@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Mossman/mossman_hair"
+	"$translucent" 1
+}

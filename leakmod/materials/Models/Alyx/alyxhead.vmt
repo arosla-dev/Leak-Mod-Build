@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Alyx/alyxhead"
+	"$envmapmask" "models/Alyx/alyxheadmask"
+	"$envmap" "models/Alyx/alyxenv"
+	"$envmapsphere" 1
+}

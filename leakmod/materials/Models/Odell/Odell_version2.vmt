@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Odell/Odell_version2"
+	"$envmapmask" "models/Odell/Odell_headmask"
+	"$envmap" "models/Alyx/alyxenv"
+	"$envmapsphere" 1
+}

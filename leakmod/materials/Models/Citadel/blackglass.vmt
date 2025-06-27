@@ -1,0 +1,9 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+//	"$basetexture" "models/Citadel/blackglass"
+//	"$bumpmap" "models/Citadel/blackglass_normal"
+//	"$envmapmask" "models/Citadel/blackglass_mask"
+	"$envmap" "Environment Maps/citfar_01"
+//	"$envmapsphere" 1
+}

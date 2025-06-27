@@ -1,0 +1,9 @@
+"VertexLitGeneric_DX8"
+{
+	"$basetexture" "Models/props_citizen_tech/Wind_Mill_Blade005b"
+	"$surfaceprop" "metal"
+	"$envmap" "Environment Maps/envmapcombine"
+	"$envmapsphere" 1
+	"$envmaptint" "[ .5 .5 .5]"
+	"$basealphaenvmapmask" 1
+}

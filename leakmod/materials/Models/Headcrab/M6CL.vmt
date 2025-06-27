@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/headcrab/M6CL"
+	"$envmap" "models/headcrab/HC_env"
+	"$envmapmask" "models/headcrab/M6CLmask"
+	"$envmapsphere" 1
+}

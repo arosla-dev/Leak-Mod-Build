@@ -1,0 +1,6 @@
+"Teeth"
+{
+	"$basetexture" "models/Mossman/upper_teeth"
+	"$clientshader" "MouthShader"
+	"$model" 1
+}

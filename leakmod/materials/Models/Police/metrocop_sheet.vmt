@@ -1,0 +1,7 @@
+"VertexLitGeneric_DX8"
+{
+	"$baseTexture" "Models/Police/metrocop_sheet"
+	"$basealphaenvmapmask" 1
+	"$envmap" "models/Police/envmap"
+	"$envmapsphere" 1
+}

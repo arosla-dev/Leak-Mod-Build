@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Combine_soldier/eye"
+	"$selfillum" 1
+	"$selfillummask" "Models/Combine_soldier/eye_mask"
+	"$nodecal" 1
+}

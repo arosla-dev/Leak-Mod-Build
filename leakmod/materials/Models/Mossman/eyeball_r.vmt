@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$basetexture" "models/Mossman/eyeball_r"
+	"$iris" "models/Mossman/pupil_r"
+}

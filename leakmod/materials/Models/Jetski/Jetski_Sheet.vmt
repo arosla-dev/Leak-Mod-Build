@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/jetski/jetski_sheet"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/jetski/jetski_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .25 .25 .25]"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1.25
+	"$envmapmask" "models/jetski/jetski_mask"
+}

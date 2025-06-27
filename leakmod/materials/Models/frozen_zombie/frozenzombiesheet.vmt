@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models/Frozen_zombie/frozenzombiesheet"
+	"$surfaceprop" "Ice"
+	"$alphatest" 1
+	$nocull 1
+}

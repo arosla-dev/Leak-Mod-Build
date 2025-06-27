@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Humans/Male/sandro_facemap"
+	"$surfaceprop" "flesh"
+}

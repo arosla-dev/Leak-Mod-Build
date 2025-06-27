@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Models/props_wasteland/Thumper_Hammer001"
+	"$surfaceprop" "metal"
+}
