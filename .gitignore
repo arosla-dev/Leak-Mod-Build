@@ -481,3 +481,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 bin/vidcfg.bin
+bin/GameCfg.ini
