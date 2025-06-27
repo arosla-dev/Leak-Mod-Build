@@ -20,7 +20,9 @@ Q - will there be multiplayer support?
 A - no, it won't
 
 Q - my worldcraft / hammer crashes as soon as I try to open/create a map!
+
 A - the thing is that hammer is not supported, and compiling it for this version of the game is quite difficult
 
 A - will there be lua support?
+
 Q - maybe in the future, but I don't guarantee it
