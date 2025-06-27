@@ -22,3 +22,8 @@ A - no, it won't
 Q - will there be lua support?
 
 A - maybe in the future, but I don't guarantee it
+
+------------------------------------
+
+https://discord.gg/cnxBu9Ac
+
