@@ -5,8 +5,8 @@
 	}
 	"BuildModeDialog"
 	{
-		"xpos"		"75"
-		"ypos"		"24"
+		"xpos"		"296"
+		"ypos"		"64"
 		"wide"		"300"
 		"tall"		"400"
 	}
